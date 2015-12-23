@@ -1,4 +1,4 @@
-title: OPX TEST
+title: OPX TEST SUCCEED
 categories: oneplus-x
 tags: oneplus-x
 ---
