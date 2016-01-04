@@ -1,0 +1,24 @@
+# Device Info (Don't change the variables' name)
+OnePlus One_index: 0
+OnePlus One_image: '//content.oneplus.net/skin/frontend/oneplus2015/default/images/support/oneplus-one-manual.png'
+OnePlus One_image2x: '//content.oneplus.net/skin/frontend/oneplus2015/default/images/support/oneplus-one-manual@2x.png'
+OnePlus One_manual: 'https://s3.amazonaws.com/oneplussupport/OnePlus-One-Quick-Start.pdf'
+OnePlus One_manual_time: 
+OnePlus One_instruction: '' 
+OnePlus One_instruction_time: 
+
+OnePlus 2_index: 1
+OnePlus 2_image: '//content.oneplus.net/skin/frontend/oneplus2015/default/images/support/oneplus-two-manual.png'
+OnePlus 2_image2x: '//content.oneplus.net/skin/frontend/oneplus2015/default/images/support/oneplus-two-manual@2x.png'
+OnePlus 2_manual: 'https://s3.amazonaws.com/oneplussupport/OnePlus-2-User-Guide.pdf'
+OnePlus 2_manual_time: 
+OnePlus 2_instruction: ''
+OnePlus 2_instruction_time: 
+
+OnePlus X_index: 2
+OnePlus X_image: 'https://s3-eu-west-1.amazonaws.com/oneplusstatics/img/OPX-manual-260px.png'
+OnePlus X_image2x: 'https://s3-eu-west-1.amazonaws.com/oneplusstatics/img/OPX-manual-520px.png'
+OnePlus X_manual: 'https://s3.amazonaws.com/oneplussupport/OnePlus-X-User-Guide.pdf'
+OnePlus X_manual_time: 
+OnePlus X_instruction: ''
+OnePlus X_instruction_time: 
