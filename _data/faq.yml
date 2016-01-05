@@ -2,5 +2,5 @@
 default:
  "I can’t copy files onto my device?": "Plase make sure that your phone’s screen is not locked, and you have checked the \"MTP USB method\""
  "Do I need to root my phone to flash?": "No."
- "Can I use TWRP Recovery to flash OxygenOS?": "Theoretically it should work, however, we don’t provide any support for 3rd party recoveries.\r\nSince flashing through 3rd party recoveries are not part of our QA process, we can’t guarantee that everything will work as expected."
- "Do I need to do a factory reset (clear data and cache) to flash OxygenOS?": "If you are currently using OxygenOS with OnePlus recovery, you don’t have to do a factory reset.\r\nIf you are flashing OxygenOS from other ROMs, a factory reset is a must."
+ "Can I use TWRP Recovery to flash OxygenOS?": "Theoretically it should work, however, we don’t provide any support for 3rd party recoveries.\n\rSince flashing through 3rd party recoveries are not part of our QA process, we can’t guarantee that everything will work as expected."
+ "Do I need to do a factory reset (clear data and cache) to flash OxygenOS?": "If you are currently using OxygenOS with OnePlus recovery, you don’t have to do a factory reset.\n\rIf you are flashing OxygenOS from other ROMs, a factory reset is a must."
