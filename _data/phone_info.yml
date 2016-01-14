@@ -6,6 +6,9 @@ OnePlus One_manual: 'https://s3.amazonaws.com/oneplussupport/OnePlus-One-Quick-S
 OnePlus One_manual_time: 
 OnePlus One_instruction: '' 
 OnePlus One_instruction_time: 
+OnePlus One_image_turnoff: 'images/OPO-turnoff.png'
+OnePlus One_image_restart: 'images/OPO-restart.png'
+OnePlus One_image_face: 'images/OPX-face.gif'
 
 OnePlus 2_index: 1
 OnePlus 2_image: '//content.oneplus.net/skin/frontend/oneplus2015/default/images/support/oneplus-two-manual.png'
@@ -14,6 +17,9 @@ OnePlus 2_manual: 'https://s3.amazonaws.com/oneplussupport/OnePlus-2-User-Guide.
 OnePlus 2_manual_time: 
 OnePlus 2_instruction: ''
 OnePlus 2_instruction_time: 
+OnePlus 2_image_turnoff: 'images/OP2-turnoff.png'
+OnePlus 2_image_restart: 'images/OP2-restart.png'
+OnePlus 2_image_face: 'images/OPX-face.gif'
 
 OnePlus X_index: 2
 OnePlus X_image: 'https://s3-eu-west-1.amazonaws.com/oneplusstatics/img/OPX-manual-260px.png'
@@ -21,4 +27,7 @@ OnePlus X_image2x: 'https://s3-eu-west-1.amazonaws.com/oneplusstatics/img/OPX-ma
 OnePlus X_manual: 'https://s3.amazonaws.com/oneplussupport/OnePlus-X-User-Guide.pdf'
 OnePlus X_manual_time: 
 OnePlus X_instruction: ''
-OnePlus X_instruction_time: 
+OnePlus X_instruction_time:
+OnePlus X_image_turnoff: 'images/OPX-turnoff.png'
+OnePlus X_image_restart: 'images/OPX-restart.png'
+OnePlus X_image_face: 'images/OPX-face.gif'
