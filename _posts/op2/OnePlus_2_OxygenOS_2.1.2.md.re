@@ -1,4 +1,4 @@
-title: OnePlus2Oxygen_14_OTA_010_all
+title: OnePlus 2 OxygenOS 2.1.2
 date: 2015/11/13
 categories: OnePlus 2
 tags: Stable

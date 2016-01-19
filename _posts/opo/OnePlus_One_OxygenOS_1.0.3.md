@@ -1,4 +1,4 @@
-title: ONE_12_A.01_150827
+title: OnePlus One OxygenOS 1.0.3
 date: 2015/9/2
 categories: OnePlus One
 tags: Stable
