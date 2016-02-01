@@ -1,6 +1,7 @@
 # Device Info (Don't change the variables' name)
 default:
- "I can’t copy files onto my device?": "Plase make sure that your phone’s screen is not locked, and you have checked the \"MTP USB method\""
- "Do I need to root my phone to flash?": "No."
- "Can I use TWRP Recovery to flash OxygenOS?": "Theoretically it should work, however, we don’t provide any support for 3rd party recoveries.\n\rSince flashing through 3rd party recoveries are not part of our QA process, we can’t guarantee that everything will work as expected."
- "Do I need to do a factory reset (clear data and cache) to flash OxygenOS?": "If you are currently using OxygenOS with OnePlus recovery, you don’t have to do a factory reset.\n\rIf you are flashing OxygenOS from other ROMs, a factory reset is a must."
+  "Do I need to root my device to flash OxygenOS?": "No, however your phone needs to be unlocked. "
+  "Will I get OTAs after I flash OxygenOS for future updates?": "Yes for every device except for the OnePlus One. OxygenOS is a community ROM for the OnePlus One. The official ROM is CyanogenOS."
+  "Do I need to wipe my data to flash OxygenOS?": " Please follow the flashing instructions carefully. In some cases we support upgrading without a data wipe.\n\rHowever, if you are coming from a system other than OxygenOS, then most likely you would need to do a factory reset. If you are not sure, please contact our customer support."
+  "Do you support rooted users?": "We do not officially support rooted users, there isn't a good way for us to guarantee the stability of the system when the device is rooted.\n\rHowever, we do have many rooted users and the OnePlus forum is probably the best place to get answers if you have a question about rooting."
+  "Can we use another recovery system other than the Oxygen recovery?": "TWRP is a popular recovery and we have provided flashing instructions if you are using TWRP on the OnePlus 2 and X.\n\rThe instructions we have provided are device specific, so please make sure you read the instructions for your device."
