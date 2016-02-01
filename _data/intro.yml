@@ -1,0 +1,20 @@
+# Device Info (Don't change the variables' name)
+default: 
+  "**Caution**: You should understand the risk of *BREAKING* your phone, read the instructions carefully if you are not 100% sure of what you are doing, and please always backup your important data before flashing.\n\r
+  **Please also note**: These instructions will work properly if you are already using OxygenOS and re-flashing it using this package. However, if you are coming from any other custom ROM, we recommend you to contact our Customer Support to help you in getting OxygenOS.\n\r
+  **At last**: If anything unexpected happens during flashing, please contact our customer support before your next move, we are always here to serve."
+OnePlus One:
+  "**Please read the following instructions carefully before flashing your device. Flashing may lead to loss of data and damaged hardware if not done properly. Please contact our customer support if you feel uncomfortable performing the steps below.**\n\r
+  We highly recommend backing up all your important personal data before continuing, even in cases where a data wipe is not needed.\n\r
+  Instructions assume you are either on OxygenOS or COS 12+. We have not tested the instructions on all other alternative ROMs, but we have provided basic steps for flashing with TWPR. Please contact our customer support if you have any doubts.\n\r
+  *** We cannot guarantee results on rooted devices.*"
+OnePlus 2:
+  "**Please read the following instructions carefully before flashing your device. Flashing may lead to loss of data and damaged hardware if not done properly. Please contact our customer support if you feel uncomfortable performing the steps below.**\n\r
+  We highly recommend backing up all your important personal data before continuing, even in cases where a data wipe is not needed.\n\r
+  Instructions assume you are still using the original [*OnePlus 2 Oxygen Recovery*](https://s3.amazonaws.com/oxygenos.oneplus.net/OP2_recovery.img \"MD5: f2630fdfe1d3ef005df6ff28885886c3s\"). We have not tested the instructions on all other alternative ROMs, but we have provided basic steps for flashing with TWPR. Please contact our customer support if you have any doubts.\n\r
+  *** We cannot guarantee results on rooted devices.*"
+OnePlus X:
+  "**Please read the following instructions carefully before flashing your device. Flashing may lead to loss of data and damaged hardware if not done properly. Please contact our customer support if you feel uncomfortable performing the steps below.**\n\r
+  We highly recommend backing up all your important personal data before continuing, even in cases where a data wipe is not needed.\n\r
+  Instructions assume you are still using the original [*OnePlus X Oxygen Recovery*](https://s3.amazonaws.com/oxygenos.oneplus.net/OPX_recovery.img \"MD5: ac07e939c0bd13af15af2d1efde7171a\"). We have not tested the instructions on all other alternative ROMs, but we have provided basic steps for flashing with TWPR. Please contact our customer support if you have any doubts.\n\r
+  *** We cannot guarantee results on rooted devices.*"
