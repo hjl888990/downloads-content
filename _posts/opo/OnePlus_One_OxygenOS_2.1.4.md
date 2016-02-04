@@ -5,6 +5,7 @@ tags: Stable
 version: 2.1.4
 file_size: 732 MB
 md5: 6712ce16816c38c22250203205fa8652
+forumlink: https://forums.oneplus.net/threads/oxygenos-2-1-4-for-the-oneplus-one.425544/
 download: http://oxygenos.oneplus.net/OnePlus_Bacon_OxygenOS_201601190107.zip
 ---
 Whereas many operating systems have fallen victim to an infestation of abrasive bloatware, OxygenOS 2.1.4 offers a clean, unburdened overall user experience. Now, because no two devices are the same, we inevitably had to deviate slightly from feature parity with the OnePlus 2. MaxxAudio’s proprietary sound technology and relevant applications were removed. The manual camera mode and RAW file format capability also did not make the final cut. For obvious reasons, there is no fingerprint support, nor a screen temperature slider. Beyond these concessions, you will be able to enjoy a version of OxygenOS that has been fully optimized for the OnePlus One.
