@@ -4,7 +4,7 @@ categories: OnePlus X
 tags: Stable
 version: 2.2.1
 file_size: 780 MB
-md5: 
+md5: a2993941397bbacd06878b844e6fa865
 download: https://s3.amazonaws.com/oxygenos.oneplus.net/055/OnePlusOxygen_14_OTA_010_all_201604021001_54d6bba8f7d84502.zip
 ---
 * Fix for data leak while roaming experienced in some regions
