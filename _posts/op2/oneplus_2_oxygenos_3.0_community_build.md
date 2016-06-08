@@ -1,9 +1,9 @@
-title: OnePlus 2 OxygenOS 3.0 Beta
+title: OnePlus 2 OxygenOS 3.0 Community Build
 date: 2016/03/30
 categories: OnePlus 2
 tags: Beta
 file_size: 1.1 GB
-version: 3.0 Beta
+version: 3.0 Community Build
 md5: 9b30f7f1a8977861b780b36ac8c6ee34
 download: http://oxygenos.oneplus.net/OnePlus2Oxygen_3.0_beta_bb10c034d8a4466d.zip
 ---
@@ -25,4 +25,4 @@ download: http://oxygenos.oneplus.net/OnePlus2Oxygen_3.0_beta_bb10c034d8a4466d.z
 * Re-arranging quick setting icons may fail
 * Language localization not complete
 
-*We only support dirty flashing of this build using Oxygen recovery. Dirty flashing requires OxygenOS 2.2.0 or higher. Factory reset is needed if you are using any other recovery or coming from any other ROM. We do not guarantee these cases to work properly.*
+*** We only support dirty flashing of this build using Oxygen recovery. Dirty flashing requires OxygenOS 2.2.0 or higher. Factory reset is needed if you are using any other recovery or coming from any other ROM. We do not guarantee these cases to work properly.*

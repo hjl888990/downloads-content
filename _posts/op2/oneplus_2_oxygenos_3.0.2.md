@@ -1,9 +1,9 @@
-title: 'OnePlus 2 OxygenOS 3.0.2 Community Build'
+title: 'OnePlus 2 OxygenOS 3.0.2'
 date: 2016/06/04
 categories: OnePlus 2
 tags: Beta
 file_size: 1.1 GB
-version: 3.0.2 Community Build
+version: 3.0.2
 md5: 46b1fde116275d83d05c2dd89422069f
 download: https://s3.amazonaws.com/oxygenos.oneplus.net/OnePlus2Oxygen_14_OTA_019_all_1606041303_bd42fc5cc5cc4ab2.zip
 intro: '*** Warning (Upgrading to v3.0.2): If you’ve disabled Google services on your current device, please re-enable before upgrading via OTA. If Google services is disabled, you may experience system boot issues after installation.*'
