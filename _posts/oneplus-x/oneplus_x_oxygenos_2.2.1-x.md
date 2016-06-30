@@ -1,8 +1,8 @@
-title: OnePlus X OxygenOS 2.2.1-X hotfix
+title: OnePlus X OxygenOS 2.2.1-x Hotfix
 date: 2016/04/20
 categories: OnePlus X
 tags: Stable
-version: 2.2.1-X
+version: 2.2.1-x
 file_size: 780 MB
 md5: 62d7c4db66641cc0c085b1e13be19376
 download: https://s3.amazonaws.com/oxygenos.oneplus.net/OnePlusOxygen_14_OTA_011_all_201604202046_26b4d5d875ab4193.zip
