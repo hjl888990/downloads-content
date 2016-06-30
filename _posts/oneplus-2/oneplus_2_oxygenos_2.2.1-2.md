@@ -1,4 +1,4 @@
-title: OnePlus 2 OxygenOS 2.2.1-2 hotfix
+title: OnePlus 2 OxygenOS 2.2.1-2 Hotfix
 date: 2016/04/20
 categories: OnePlus 2
 tags: Stable
