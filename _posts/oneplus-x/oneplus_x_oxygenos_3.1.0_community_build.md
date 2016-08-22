@@ -2,7 +2,7 @@ title: OnePlus X OxygenOS 3.1.0 (Marshmallow) Community Build
 date: 2016/08/18
 categories: OnePlus X
 tags: Beta
-version: 3.1.0
+version: 3.1.0 Community Build
 file_size: 761 MB
 md5: 3f65812136548f6ac9d3056107bc8b0c
 download: http://oneplusroms.s3.amazonaws.com/OnePlusXOxygen_14_OTA_015_all_201608181615_e03d2112e8ad4bff.zip?AWSAccessKeyId=AKIAJ2SIWE7D3VMMGOEQ&Expires=1474276067&Signature=JMzMCGYP4KbTLFVkmyqfi9oyaV8%3D
