@@ -22,8 +22,8 @@ OnePlus X_instruction_time:
 OnePlus X_image_turnoff: 'images/OPX-turnoff.png'
 OnePlus X_image_restart: 'images/OPX-restart.png'
 OnePlus X_image_face: 'images/OPX-face.gif'
-OnePlus X_recovery_link: 'https://s3.amazonaws.com/oxygenos.oneplus.net/OPX_recovery.img'
-OnePlus X_recovery_md5: 'ac07e939c0bd13af15af2d1efde7171a'
+OnePlus X_recovery_link: 'http://oxygenos.oneplus.net.s3.amazonaws.com/OPX_MM_recovery.img'
+OnePlus X_recovery_md5: '9a6332e6a0a3c2f2fcb43f79bca7b1c6'
 
 OnePlus 2_index: 2
 OnePlus 2_image: '//content.oneplus.net/skin/frontend/oneplus2015/default/images/support/oneplus-two-manual.png'
