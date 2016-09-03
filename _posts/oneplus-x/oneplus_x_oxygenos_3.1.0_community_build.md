@@ -5,6 +5,7 @@ tags: Beta
 version: 3.1.0 Community Build
 file_size: 761 MB
 md5: 3f65812136548f6ac9d3056107bc8b0c
+disabled: ture
 download: http://oneplusroms.s3.amazonaws.com/OnePlusXOxygen_14_OTA_015_all_201608181615_e03d2112e8ad4bff.zip?AWSAccessKeyId=AKIAJ2SIWE7D3VMMGOEQ&Expires=1474276067&Signature=JMzMCGYP4KbTLFVkmyqfi9oyaV8%3D
 ---
 * [Android 6.0.1 Marshmallow](https://www.android.com/versions/marshmallow-6-0/)
@@ -32,3 +33,5 @@ This is a community build, so keep in mind that you might stumble across some is
 * Language localization is still being improved
 
 If you find any other issues, please let us know using [this form](https://goo.gl/forms/ajT1iQ6yN2ak7KDv2).
+
+*** Note: We’ve reached our desired number of beta testers, so this download has been disabled. Thank you to everyone who participated and provided feedback!*
