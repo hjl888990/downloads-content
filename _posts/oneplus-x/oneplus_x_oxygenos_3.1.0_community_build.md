@@ -1,4 +1,4 @@
-title: OnePlus X OxygenOS 3.1.0 (Marshmallow) Community Build
+title: OnePlus X OxygenOS 3.1.0 Community Build
 date: 2016/08/18
 categories: OnePlus X
 tags: Beta
