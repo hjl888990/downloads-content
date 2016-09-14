@@ -4,8 +4,8 @@ categories: OnePlus 3
 tags: Beta
 file_size: 1.3 GB
 version: 3.5.2 Community Build
-md5: e65a4fa1d5832f0e97e148cd78e9b41b
-download: //s3.amazonaws.com/oxygenos.oneplus.net/OnePlus3Oxygen_16_OTA_003_all_1609141012_3e89351213844099.zip
+md5: 22a45eb400e202b6a41582673c11b3b2
+download: //s3.amazonaws.com/oxygenos.oneplus.net/OnePlus3Oxygen_16_OTA_003_all_1609142002_2a17363c90cd462e.zip
 ---
 * Added "kill all background processes" button in recents menu
 * Added long press options in messages application
