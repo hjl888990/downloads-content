@@ -1,16 +1,18 @@
 title: OnePlus 3 OxygenOS 3.5.4 Community Build
-date: 2016/10/15
+date: 2016/10/17
 categories: OnePlus 3
 tags: Beta
 file_size: 1.4 GB
 version: 3.5.4 Community Build
-md5: 47971a3cc5cd6a23e90f01b718c1b36b
-download: http://oxygenos.oneplus.net.s3.amazonaws.com/OnePlus3Oxygen_16_OTA_005_all_1610150051_0d9cb3c476914a1d.zip 
+md5: 80fbe4762cc51fd13ae06b9afac61eab
+download: http://oxygenos.oneplus.net.s3.amazonaws.com/OnePlus3Oxygen_16_OTA_006_all_1610172123_2a54215ec1fa483e.zip
+
 ---
 * Added App Lock functionality
+* Fixed keyguard crashes when enabling sim card lock in multiple languages
 * Optimized accent colors in default themes
 * Optimized translations for certain languages
-* Optimized the quality of long screenshots
+* Improved the quality of expanded screenshots
 * Increased system stability
 * General bug fixes
 
