@@ -14,7 +14,7 @@ download: http://oxygenos.oneplus.net.s3.amazonaws.com/OnePlus3Oxygen_16_OTA_005
 * Increased system stability
 * General bug fixes
 
-**Please follow the links below for the experience survey and bug reporting sheet.**
+**Please follow the links below for the experiential survey and bug reporting sheet.**
 * https://goo.gl/forms/BioIINdnCsUhTauc2 - Feedback on UI/UX
 * https://goo.gl/forms/P2DPrEqQWIafmyyE3 - Bug reporting sheet
 
