@@ -1,5 +1,5 @@
 title: OnePlus X OxygenOS 2.2.3
-date: 2016/09/12
+date: 2016/09/01
 categories: OnePlus X
 tags: Stable
 version: 2.2.3
