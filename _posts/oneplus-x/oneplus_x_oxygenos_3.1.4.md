@@ -1,5 +1,5 @@
 title: OnePlus X OxygenOS 3.1.4
-date: 2016/11/07
+date: 2016/11/10
 categories: OnePlus X
 tags: Stable
 version: 3.1.4
