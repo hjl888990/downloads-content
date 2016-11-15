@@ -1,11 +1,12 @@
-title: OnePlus 3 OxygenOS 3.5.1 Community Build
+title: OnePlus 3 OxygenOS Open Beta 2
 date: 2016/08/30
 categories: OnePlus 3
 tags: Beta
 file_size: 1.3 GB
-version: 3.5.1 Community Build
+version: Open Beta 2
 md5: 68cf22aa523b6575e67fefa9492ae4b5
 download: http://oxygenos.oneplus.net.s3.amazonaws.com/OnePlus3Oxygen_16_OTA_002_all_1608301010_6ee96e2225c34a71.zip
+alias: oneplus-3/oneplus_3_oxygenos_3.5.1_community_build/
 ---
 * Accent color added
 * Battery icon customization added
