@@ -3,10 +3,10 @@ date: 2016/08/22
 categories: OnePlus 3
 tags: Beta
 file_size: 1.3 GB
-version: Open Beta 1
+version:  Open Beta 1
 md5: 420bac747f6257d942246b77e5f2d742
 download: http://oneplusroms.s3.amazonaws.com/OnePlus3Oxygen_16_OTA_001_all_1608221857_298f55dcebac4115.zip?AWSAccessKeyId=AKIAJ2SIWE7D3VMMGOEQ&Expires=1474630953&Signature=MrtJrkO7IkmsQVUcEt5hpP5gIKU%3D
-alias: alias: oneplus-3/oneplus_3_oxygenos_3.5.0_community_build/
+alias: oneplus-3/oneplus_3_oxygenos_3.5.0_community_build/
 ---
 * Several UI improvements
 * New and improved OnePlus apps, including clock, weather, and file manager
