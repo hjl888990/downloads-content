@@ -3,7 +3,7 @@ date: 2016/10/31
 categories: OnePlus 3
 tags: Beta
 file_size: 1.4 GB
-version:  Open Beta 6
+version: Open Beta 6
 md5: 90a57271ee42d7ee442fec6d4c000aca  
 download: http://oxygenos.oneplus.net.s3.amazonaws.com/OnePlus3Oxygen_16_OTA_007_all_1610310039_bc5bc09fd9af4ceb.zip
 alias: oneplus-3/oneplus_3_oxygenos_3.5.5_community_build/

@@ -1,11 +1,12 @@
-title: OnePlus 3 OxygenOS 3.5.2 Community Build
+title: OnePlus 3 OxygenOS Open Beta 3
 date: 2016/09/14
 categories: OnePlus 3
 tags: Beta
 file_size: 1.3 GB
-version: 3.5.2 Community Build
+version: Open Beta 3
 md5: 22a45eb400e202b6a41582673c11b3b2
 download: //s3.amazonaws.com/oxygenos.oneplus.net/OnePlus3Oxygen_16_OTA_003_all_1609142002_2a17363c90cd462e.zip
+alias: oneplus-3/oneplus_3_oxygenos_3.5.2_community_build/
 ---
 * Added "kill all background processes" button in recents menu
 * Added long press options in messages application
@@ -23,4 +24,4 @@ download: //s3.amazonaws.com/oxygenos.oneplus.net/OnePlus3Oxygen_16_OTA_003_all_
 * https://goo.gl/forms/xBXWi6ksNsvrxiB12 - Feedback on UI/UX
 * https://goo.gl/forms/HM3v1zU134oGh05R2 - Bug reporting sheet
 
-*** Note: If you flash this community build, you’ll receive community OTAs (but not official OTAs). You’ll need to manually (clean) flash back to our official builds to continue receiving official OTAs. Rolling back to official OxygenOS versions require wiping data and cache.*
+*** Note: If you flash this Open Beta build, you’ll receive Open Beta OTAs (but not official OTAs). You’ll need to manually (clean) flash back to our official builds to continue receiving official OTAs. Rolling back to official OxygenOS versions require wiping data and cache.*

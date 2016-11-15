@@ -3,7 +3,7 @@ date: 2016/08/22
 categories: OnePlus 3
 tags: Beta
 file_size: 1.3 GB
-version:  Open Beta 1
+version: Open Beta 1
 md5: 420bac747f6257d942246b77e5f2d742
 download: http://oneplusroms.s3.amazonaws.com/OnePlus3Oxygen_16_OTA_001_all_1608221857_298f55dcebac4115.zip?AWSAccessKeyId=AKIAJ2SIWE7D3VMMGOEQ&Expires=1474630953&Signature=MrtJrkO7IkmsQVUcEt5hpP5gIKU%3D
 alias: oneplus-3/oneplus_3_oxygenos_3.5.0_community_build/
@@ -19,4 +19,4 @@ You’ll notice some of these new features right away, but the big changes have 
 * https://goo.gl/forms/2rTKCrwincvKBuj32 - Feedback on UI/UX
 * https://goo.gl/forms/FbRojFvSXqkLwsPD2 - Bug reporting sheet
 
-*** Note: If you flash this community build, you’ll receive community OTAs (but not official OTAs). You’ll need to manually (clean) flash back to our official builds to continue receiving official OTAs. Rolling back to official OxygenOS versions require wiping data and cache.*
+*** Note: If you flash this Open Beta build, you’ll receive Open Beta OTAs (but not official OTAs). You’ll need to manually (clean) flash back to our official builds to continue receiving official OTAs. Rolling back to official OxygenOS versions require wiping data and cache.*

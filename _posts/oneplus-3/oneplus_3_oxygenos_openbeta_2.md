@@ -20,4 +20,4 @@ alias: oneplus-3/oneplus_3_oxygenos_3.5.1_community_build/
 * https://goo.gl/forms/qFsrbyvxRbmjQnIi1 - Feedback on UI/UX
 * https://goo.gl/forms/l5etNY41zhmYI6tk1 - Bug reporting sheet
 
-*** Note: If you flash this community build, you’ll receive community OTAs (but not official OTAs). You’ll need to manually (clean) flash back to our official builds to continue receiving official OTAs. Rolling back to official OxygenOS versions require wiping data and cache.*
+*** Note: If you flash this Open Beta build, you’ll receive Open Beta OTAs (but not official OTAs). You’ll need to manually (clean) flash back to our official builds to continue receiving official OTAs. Rolling back to official OxygenOS versions require wiping data and cache.*
