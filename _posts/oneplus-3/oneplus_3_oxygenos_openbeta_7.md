@@ -1,7 +1,6 @@
 title: OnePlus 3 OxygenOS Open Beta 7
 date: 2016/11/17
 categories: OnePlus 3
-date: 2016/11/16
 tags: Beta
 file_size: 1.5 GB
 version: Open Beta 7
