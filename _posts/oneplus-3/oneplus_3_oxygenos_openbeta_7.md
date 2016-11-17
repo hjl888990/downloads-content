@@ -1,11 +1,12 @@
 title: OnePlus 3 OxygenOS Open Beta 7
-date: 2016/11/16
+date: 2016/11/17
 categories: OnePlus 3
+date: 2016/11/16
 tags: Beta
-file_size: 1.4 GB
+file_size: 1.5 GB
 version: Open Beta 7
-md5: a6a15a4efcd6d43817f46bb422a30482
-download: http://oxygenos.oneplus.net.s3.amazonaws.com/OnePlus3Oxygen_16_OTA_009_all_1611141046_8ef13ffea12c47e1.zip
+md5: f9d14763ce150f9daaf2e2b02f977cef
+download: http://oxygenos.oneplus.net.s3.amazonaws.com/OnePlus3Oxygen_16_OTA_009_all_1611161152_86fe98f7ebf24259.zip
 
 ---
 * Added audio tuner
@@ -22,7 +23,7 @@ download: http://oxygenos.oneplus.net.s3.amazonaws.com/OnePlus3Oxygen_16_OTA_009
 
 
 **Please follow the links below for the experiential survey and bug reporting sheet.**
-* https://goo.gl/forms/f4fQjM8gpwyyx66F3 - Feedback on UI/UX
-* https://goo.gl/forms/rDF2I03pLPM14QGk1 - Bug reporting sheet
+* https://goo.gl/forms/fwedPaA2WNTvocOz2 - Feedback on UI/UX
+* https://goo.gl/forms/b2gEzsk1yXUbTVQ82 - Bug reporting sheet
 
 *** Note: If you flash this Open Beta build, you’ll receive Open Beta OTAs (but not official OTAs). You’ll need to manually (clean) flash back to our official builds to continue receiving official OTAs. Rolling back to official OxygenOS versions require wiping data and cache.*
