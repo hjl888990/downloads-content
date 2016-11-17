@@ -12,7 +12,7 @@ download: http://oxygenos.oneplus.net.s3.amazonaws.com/OnePlus3Oxygen_16_OTA_009
 * Added background app freezing mechanism
 * Redesign of accent color
 * Redesign of the clock UI
-* Updated Google security patch for October
+* Updated Google security patch for November
 * Fixed black screen issue when exiting games in horizontal orientation
 * Fixed launcher related crashes
 * Fixed dial pad crashes
