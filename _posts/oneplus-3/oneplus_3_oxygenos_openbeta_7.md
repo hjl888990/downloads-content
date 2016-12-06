@@ -6,6 +6,8 @@ file_size: 1.5 GB
 version: Open Beta 7
 md5: f9d14763ce150f9daaf2e2b02f977cef
 download: http://oxygenos.oneplus.net.s3.amazonaws.com/OnePlus3Oxygen_16_OTA_009_all_1611161152_86fe98f7ebf24259.zip
+recovery_link: http://oneplusroms.s3.amazonaws.com/recovery_OBT7.img?AWSAccessKeyId=AKIAJ2SIWE7D3VMMGOEQ&Expires=1483694615&Signature=1Momnxm8gHWw03D401Oof5YxnE4%3D
+recovery_md5: 58f681691d044c3e2af8e717b306f1d0
 
 ---
 * Added audio tuner
