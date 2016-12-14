@@ -1,0 +1,24 @@
+title: 'OnePlus 2 OxygenOS 3.1.0'
+date: 2016/12/19
+categories: OnePlus 2
+tags: Stable
+file_size: 1.26 GB
+version: 3.5.5
+md5: 23fee80f66e29ba563b965a805dfc7ad
+download: http://oxygenos.oneplus.net.s3.amazonaws.com/OnePlus2Oxygen_14_OTA_026_all_1612121612_c41e86d4c123422f.zip
+
+---
+* Added VoLTE functionality
+* Added App Lock
+* Added Battery Saving Mode ( Settings > Battery > More )
+* Added Gaming Mode ( Settings > Developer Options )
+* Added Additional Options for the Alert Slider.
+* Redesign of the Volume Adjustment Bar
+* Shelf Optimizations
+* Updated Interface and UI of the Clock app
+* Updated Google Security Patch for November
+* Increased System Stability
+* General Bug Fixes
+
+
+*** Attention: If updated to 3.5.5, basic functions like WiFi connectivity, Network and Fingerprint might be affected if users want to flash back to 3.1.0. This has to be dealt with with a special tool to clear all data from the phone. You must backup your data if you want to revert to older versions from 3.5.5.*
