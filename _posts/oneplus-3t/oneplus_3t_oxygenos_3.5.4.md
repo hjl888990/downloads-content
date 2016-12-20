@@ -10,7 +10,7 @@ download: http://oxygenos.oneplus.net.s3.amazonaws.com/OnePlus3TOxygen_28_OTA_02
 ---
 * Optimizations for US-TMO Network
 * Optimizations to Reduce Lag when Battery is below 5%
-* Optimized Bluetooth Connectivity for Mazda Cars
+* Optimized Bluetooth Connectivity 
 * Optimized Battery Saving Mode: GPS and Orientation Preferences will be restored when Battery Saving Mode is closed.
 * Fixed Flashlight Usability Issue in WhatsApp
 * Increased System Stability
