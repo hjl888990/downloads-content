@@ -17,3 +17,5 @@ intro: '*** Attention: We only support dirty flashing of this build using Oxygen
 * General bug fixes
 
 *** Attention (Upgrading to OxygenOS 3.1.0): If you’ve disabled Google services on your current device, please re-enable before upgrading via OTA. If Google services is disabled, you may experience system boot issues after installation.*
+
+*** This version cannot be used for downgrading from OxygenOS 3.5.5, please use the special rollback version and refer to the flashing guide here: https://docs.google.com/document/d/1adh17i1Xrm2uo8DI4E7ykWc_8MS9vFF8zsVaQZaIVww/edit?usp=sharing*

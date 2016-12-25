@@ -1,11 +1,11 @@
 title: 'OnePlus 2 OxygenOS 3.1.0'
-date: 2016/12/19
+date: 2016/12/26
 categories: OnePlus 2
 tags: Stable
 file_size: 1.26 GB
 version: 3.5.5
-md5: 23fee80f66e29ba563b965a805dfc7ad
-download: http://oxygenos.oneplus.net.s3.amazonaws.com/OnePlus2Oxygen_14_OTA_026_all_1612121612_c41e86d4c123422f.zip
+md5: e69b11b2a311fbd263bd29b77112ef48
+http://oxygenos.oneplus.net.s3.amazonaws.com/OnePlus2Oxygen_14_OTA_026_all_1612220228_c5f2c1d45d804847.zip
 
 ---
 * Added VoLTE functionality
@@ -15,10 +15,17 @@ download: http://oxygenos.oneplus.net.s3.amazonaws.com/OnePlus2Oxygen_14_OTA_026
 * Added Additional Options for the Alert Slider.
 * Redesign of the Volume Adjustment Bar
 * Shelf Optimizations
+* Updated OxygenOS UI
 * Updated Interface and UI of the Clock app
 * Updated Google Security Patch for November
 * Increased System Stability
 * General Bug Fixes
 
 
+**As this update will move you to the new Oxygen UI,  please follow the link below for the UI/UX experience survey. We’d really appreciate a few minutes of your time, as it will help us make OxygenOS even better.**
+* - Feedback on UI/UX: https://goo.gl/forms/EOd2tSdFJI2N6xfD3
+
+
 *** Attention: If updated to 3.5.5, basic functions like WiFi connectivity, Network and Fingerprint might be affected if users want to flash back to 3.1.0. This has to be dealt with with a special tool to clear all data from the phone. You must backup your data if you want to revert to older versions from 3.5.5.*
+
+*** To downgrade from 3.5.5 to 3.1.0, please refer to our Flashing Guide here for the necessary files and steps to perform this process: https://docs.google.com/document/d/1adh17i1Xrm2uo8DI4E7ykWc_8MS9vFF8zsVaQZaIVww/edit?usp=sharing*
