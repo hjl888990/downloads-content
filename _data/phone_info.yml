@@ -18,7 +18,7 @@ OnePlus X_image2x: 'https://s3-eu-west-1.amazonaws.com/oneplusstatics/img/OPX-ma
 OnePlus X_manual: 'https://s3.amazonaws.com/oneplussupport/OnePlus-X-User-Guide.pdf'
 OnePlus X_manual_time: 
 OnePlus X_instruction: ''
-OnePlus X_instruction_time:
+OnePlus X_instruction_time: 
 OnePlus X_image_turnoff: 'images/OPX-turnoff.png'
 OnePlus X_image_restart: 'images/OPX-restart.png'
 OnePlus X_image_face: 'images/OPX-face.gif'
@@ -32,7 +32,7 @@ OnePlus 2_manual: 'https://s3.amazonaws.com/oneplussupport/OnePlus-2-User-Guide.
 OnePlus 2_manual_time: 
 OnePlus 2_instruction: 'https://s3.amazonaws.com/oneplussupport/flash/Flashing+guide+for+OnePlus+2-+Downgrading+from+3.5.5+to+3.1.0.pdf'
 OnePlus 2_instruction_name: 'Downgrading from 3.5.5 to 3.1.0'
-OnePlus 2_instruction_time:
+OnePlus 2_instruction_time: 
 OnePlus 2_image_turnoff: 'images/OP2-turnoff.png'
 OnePlus 2_image_restart: 'images/OP2-restart.png'
 OnePlus 2_image_face: 'images/OPX-face.gif'
@@ -43,9 +43,9 @@ OnePlus 3_index: 3
 OnePlus 3_image: 'https://content.oneplus.net/media/wysiwyg/support/manual/op3-260px.png'
 OnePlus 3_image2x: 'https://content.oneplus.net/media/wysiwyg/support/manual/op3-520px.png'
 OnePlus 3_manual: 'https://s3.amazonaws.com/oneplussupport/OnePlus-3-USER_MANUAL.pdf'
-OnePlus 3_manual_time:
+OnePlus 3_manual_time: 
 OnePlus 3_instruction: ''
-OnePlus 3_instruction_time:
+OnePlus 3_instruction_time: 
 OnePlus 3_image_turnoff: 'images/OP3-turnoff.png'
 OnePlus 3_image_restart: 'images/OP3-restart.png'
 OnePlus 3_image_face: 'images/OP3-face.gif'
@@ -55,7 +55,7 @@ OnePlus 3_recovery_md5: '58f681691d044c3e2af8e717b306f1d0'
 OnePlus 3T_index: 4
 OnePlus 3T_image: 'https://content.oneplus.net/media/wysiwyg/support/manual/op3t-260px.png'
 OnePlus 3T_image2x: 'https://content.oneplus.net/media/wysiwyg/support/manual/op3t-520px.png'
-OnePlus 3T_manual:
+OnePlus 3T_manual: 
 OnePlus 3T_manual_time:
 OnePlus 3T_instruction: ''
 OnePlus 3T_instruction_time:
