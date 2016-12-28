@@ -1,0 +1,27 @@
+title: 'OnePlus 2 OxygenOS 3.1.1 Special Intermittent Version'
+date: 2016/12/25
+categories: OnePlus 2
+tags: Stable
+file_size: 1.22 GB
+version: 3.1.1
+md5: a9412e0fd5f86f48ca43b5be53845812
+download: http://oxygenos.oneplus.net.s3.amazonaws.com/OnePlus2Oxygen_14_OTA_021_all_1610121102_wipe_9505656273ba4203.zip
+
+---
+*** Flashing guide for OnePlus 2: Downgrading from 3.5.5 to 3.1.0*
+
+* A few things to keep in mind before you start the downgrade process:
+* This version can only be used for rolling back from OxygenOS 3.5.5 
+* This downgrade process will erase all data from your phone, please perform a full backup of your data before you start downgrading.
+* Please ensure the device has enough power or charged in before downgrading.
+* Basic functions will be affected if you skip step 3 and perform step 7 immediately.
+
+Steps:
+1) Download 3.1.1 Intermittent Version and 3.1.0 Stable Version and copy them onto the phone’s directory. (Example: Storage/Internal Storage/Download)
+2) Power off your phone and enter Recovery Mode by pressing the Power and Volume - button together for 3 seconds.
+3) Choose English > Install from local > Choose OnePlus2Oxygen_14_OTA_021_all_1610121102_wipe_9505656273ba4203.zip from the phone’s directory. (Example: Storage/Internal Storage/Download)
+4) Wait for the flashing process to complete. Do not cut off power and do not interrupt until the process is completed.
+5) After the flashing, choose “Reboot” and device will restart.
+6) Repeat Step 2
+7) Choose English > Install from local > Choose OnePlus2Oxygen_14_OTA_020_all_1608262242_44a55e674a2b4bf6.zip from the phone’s directory. (Example: Storage/Internal Storage/Download)
+8) After the flashing, choose “Reboot” and device will be downgraded to 3.1.0.
