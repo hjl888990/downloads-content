@@ -1,12 +1,11 @@
-title: 'OnePlus 2 OxygenOS 3.1.0'
-date: 2016/12/26
+title: 'OnePlus 2 OxygenOS 3.5.6' 
+date: 2017/1/5
 categories: OnePlus 2
 tags: Stable
-file_size: 1.26 GB
-version: 3.5.5
-md5: e69b11b2a311fbd263bd29b77112ef48
-http://oxygenos.oneplus.net.s3.amazonaws.com/OnePlus2Oxygen_14_OTA_026_all_1612220228_c5f2c1d45d804847.zip
-
+file_size: 1.27 GB
+version: 3.5.6
+md5: 33bac7c4873bb34784f565b7ba18ceab
+download: http://oxygenos.oneplus.net.s3.amazonaws.com/OnePlus2Oxygen_14_OTA_027_all_1612271635_392be0370d60420e.zip
 ---
 * Added VoLTE functionality
 * Added App Lock
@@ -18,6 +17,7 @@ http://oxygenos.oneplus.net.s3.amazonaws.com/OnePlus2Oxygen_14_OTA_026_all_16122
 * Updated OxygenOS UI
 * Updated Interface and UI of the Clock app
 * Updated Google Security Patch for November
+* Fixed Persistent Network Drops 
 * Increased System Stability
 * General Bug Fixes
 
