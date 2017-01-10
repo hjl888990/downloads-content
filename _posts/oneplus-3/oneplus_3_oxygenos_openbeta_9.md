@@ -6,7 +6,7 @@ file_size: 1.42 GB
 version: Open Beta 9
 md5: 62e9c8e8aa6cc2a33943ad11f325858e
 download: http://oxygenos.oneplus.net.s3.amazonaws.com/OnePlus3Oxygen_16_OTA_017_all_1612141448_c46e72f660ae4891.zip
-recovery_link:  http://oneplusroms.s3.amazonaws.com/recovery_OBT8N.img?AWSAccessKeyId=AKIAJ2SIWE7D3VMMGOEQ&Expires=1483694818&Signature=DSUZrSJyV46Dd%2FJKBmI3Z1Dri5Q%3D
+recovery_link:  http://oxygenos.oneplus.net.s3.amazonaws.com/recovery_op3.img
 recovery_md5: ee2f1c21b2cf0dfe12e23eb7ced7edd1
 
 ---
