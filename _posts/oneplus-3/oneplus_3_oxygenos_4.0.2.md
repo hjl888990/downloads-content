@@ -1,5 +1,5 @@
 title: OnePlus 3 OxygenOS 4.0.2
-date: 2017/1/19
+date: 2017/1/20
 categories: OnePlus 3
 tags: Stable
 file_size: 1.5 GB
