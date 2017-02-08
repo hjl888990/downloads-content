@@ -55,7 +55,7 @@ OnePlus 3_recovery_md5: '58f681691d044c3e2af8e717b306f1d0'
 OnePlus 3T_index: 4
 OnePlus 3T_image: 'https://content.oneplus.net/media/wysiwyg/support/manual/op3t-260px.png'
 OnePlus 3T_image2x: 'https://content.oneplus.net/media/wysiwyg/support/manual/op3t-520px.png'
-OnePlus 3T_manual: 
+OnePlus 3T_manual: 'https://s3.amazonaws.com/oneplussupport/OnePlus-3T-USER_MANUAL_Android_N.pdf'
 OnePlus 3T_manual_time:
 OnePlus 3T_instruction: ''
 OnePlus 3T_instruction_time:
