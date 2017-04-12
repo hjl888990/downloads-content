@@ -1,5 +1,5 @@
 title: 'OnePlus 2 OxygenOS 3.5.8’ 
-date: 2017/3/27
+date: 2017/4/12
 categories: OnePlus 2
 tags: Stable
 file_size: 1.27 GB
