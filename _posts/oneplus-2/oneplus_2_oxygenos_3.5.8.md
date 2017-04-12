@@ -1,12 +1,13 @@
 title: 'OnePlus 2 OxygenOS 3.5.8’
-date: 2017/4/12
+date: 2017/04/12
 categories: OnePlus 2
 tags: Stable
-file_size: 1.27 GB
+file_size: 1.27GB
 version: 3.5.8
 md5: 2813eba055939a67ac40cca306b81c75
 download: http://oxygenos.oneplus.net.s3.amazonaws.com/OnePlus2Oxygen_14_OTA_029_all_1703131134_b6b05385297743e7.zip
 ---
+
 * Updated Google security patch to 1st March 2017 
 * Fixed echo issue in Duo video calls 
 * Fixed persistent network drops 
