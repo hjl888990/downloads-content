@@ -1,4 +1,4 @@
-title: 'OnePlus 2 OxygenOS 3.5.8’
+title: 'OnePlus 2 OxygenOS 3.5.8' 
 date: 2017/04/12
 categories: OnePlus 2
 tags: Stable
