@@ -2,7 +2,7 @@ title: OnePlus 3T OxygenOS Open Beta 7
 date: 2017/5/16
 categories: OnePlus 3T
 tags: Beta
-file_size: 1.49 GB
+file_size: 1.46 GB
 version: Open Beta 7
 md5: e0341c01fd5d7548f31cb5543419c4dc
 download: http://oxygenos.oneplus.net.s3.amazonaws.com/OnePlus3TOxygen_28_OTA_024_all_1705121428_c0e215d4420b4030.zip
