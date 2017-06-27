@@ -5,7 +5,7 @@ tags: Stable
 file_size: 1.5 GB
 version: 4.5.3
 md5: 
-download: 
+download: http://downloads.oneplus.net
 recovery_link: 
 recovery_md5: 
 
