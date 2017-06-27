@@ -16,8 +16,8 @@ recovery_md5: 19088df0d775628be54564130987cdd8
 * Wi-Fi occasional drops
 
 **Optimizations:**
-* System stability 
-* Camera effect and stability
+* System stability improvements
+* Camera effect and stability enhancements
 * Effects of auto-brightness adjustment
 * Accuracy of data usage statistics
 
