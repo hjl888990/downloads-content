@@ -1,6 +1,7 @@
 # Device Info (Don"t change the variables" name)
 OnePlus 3: ADB
 OnePlus 3T: ADB
+OnePlus 5: ADB
 default:
   step 1: "Download the software build for your device at the bottom of this page."
   step 2: "Plug your phone into your computer and copy the downloaded .zip to your phone’s storage. If you’re using a Mac, you can install [Android File Transfer](https://www.android.com/filetransfer/) for this operation."
