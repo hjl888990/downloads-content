@@ -4,8 +4,8 @@ categories: OnePlus 3
 tags: Beta
 file_size: 1.49 GB
 version: Open Beta 18
-md5: f375d1bead2204181883a80a711c52b4
-download: http://oxygenos.oneplus.net.s3.amazonaws.com/OnePlus3Oxygen_16_OTA_026_all_1706141256_dacd693fa3104e08.zip
+md5: c7e8dfc20d38558903a9cda669b4e29e
+download: http://oxygenos.oneplus.net.s3.amazonaws.com/OnePlus3Oxygen_16_OTA_027_all_1706272150_2cf31c3944814aa6.zip
 recovery_link: http://oxygenos.oneplus.net.s3.amazonaws.com/recovery_op3.img
 recovery_md5: ee2f1c21b2cf0dfe12e23eb7ced7edd1
 
