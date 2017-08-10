@@ -68,9 +68,10 @@ OnePlus 3T_recovery_md5: '58f681691d044c3e2af8e717b306f1d0'
 OnePlus 5_index: 5
 OnePlus 5_image: 'https://image01.oneplus.net/shop/201706/25/1986/4e1231e9f1baf83aa733a15185ed42f3_260_0.png'
 OnePlus 5_image2x: 'https://image01.oneplus.net/shop/201706/25/1986/4e1231e9f1baf83aa733a15185ed42f3.png'
-OnePlus 5_manual: 'https://s3.amazonaws.com/oneplussupport/user-manual/OnePlus+_5_User_Manual.pdf'
+OnePlus 5_manual: 'https://s3.amazonaws.com/oneplussupport/user-manual/OnePlus_5_User_Manual.pdf'
 OnePlus 5_manual_time:
-OnePlus 5_instruction: ''
+OnePlus 5_instruction: 'https://s3.amazonaws.com/oneplussupport/user-manual/OnePlus_5_CE_Doc.pdf'
+OnePlus 5_instruction_name: 'CE DOC'
 OnePlus 5_instruction_time:
 OnePlus 5_image_turnoff: 'images/OP3-turnoff.png'
 OnePlus 5_image_restart: 'images/OP3-restart.png'
