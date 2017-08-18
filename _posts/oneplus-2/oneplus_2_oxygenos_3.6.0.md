@@ -1,5 +1,5 @@
-title: 'OnePlus 2 OxygenOS 3.6.0’ 
-date: 2017/7/12
+title: 'OnePlus 2 OxygenOS 3.6.0'
+date: 2017/07/12
 categories: OnePlus 2
 tags: Stable
 file_size: 1.27GB
