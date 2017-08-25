@@ -4,8 +4,8 @@ categories: OnePlus 3
 tags: Stable
 file_size: 1.4 GB
 version: 4.1.7
-md5:6a4722ef4dcb9824c6cd376ea7247776 
-download:http://oxygenos.oneplus.net.s3.amazonaws.com/OnePlus3Oxygen_16_OTA_055_all_1708211845_1a87aaf0fba54c3d.zip 
+md5: 6a4722ef4dcb9824c6cd376ea7247776 
+download: http://oxygenos.oneplus.net.s3.amazonaws.com/OnePlus3Oxygen_16_OTA_055_all_1708211845_1a87aaf0fba54c3d.zip 
 recovery_link: http://oxygenos.oneplus.net.s3.amazonaws.com/recovery_op3.img
 recovery_md5: ee2f1c21b2cf0dfe12e23eb7ced7edd1
 ---
