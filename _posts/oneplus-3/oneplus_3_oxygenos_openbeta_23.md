@@ -1,9 +1,9 @@
-title: OnePlus 3 OxygenOS Open 23
+title: OnePlus 3 OxygenOS Open Beta 23
 date: 2017-09-04
 categories: OnePlus 3
 tags: Beta
 file_size: 1.47 GB
-version: 23
+version: Open Beta 23
 md5: c21a6b0f3fed687c17028cc319d3df76
 download: http://oxygenos.oneplus.net.s3.amazonaws.com/OnePlus3Oxygen_16_OTA_031_all_1708311700_dabd4ca9a94f4b8e.zip
 recovery_link: http://oxygenos.oneplus.net.s3.amazonaws.com/recovery_op3.img
