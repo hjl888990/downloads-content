@@ -3,7 +3,7 @@ date: 2017-09-04
 categories: OnePlus 3T
 tags: Beta
 file_size: 1.47 GB
-version: 14
+version: Open Beta 14
 md5: 988af5dbfb789c02331b1bf2cedcc305
 download: http://oxygenos.oneplus.net.s3.amazonaws.com/OnePlus3TOxygen_28_OTA_031_all_1708311655_e9f1f038d04044d9.zip
 recovery_link: http://oxygenos.oneplus.net.s3.amazonaws.com/recovery_op3t.img
