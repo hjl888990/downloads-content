@@ -1,4 +1,4 @@
-title: OnePlus 3T OxygenOS Open 14
+title: OnePlus 3T OxygenOS Open beta 14
 date: 2017-09-04
 categories: OnePlus 3T
 tags: Beta
