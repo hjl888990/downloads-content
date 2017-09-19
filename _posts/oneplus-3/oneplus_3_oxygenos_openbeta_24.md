@@ -10,8 +10,8 @@ recovery_link: http://oxygenos.oneplus.net.s3.amazonaws.com/recovery_op3.img
 recovery_md5: ee2f1c21b2cf0dfe12e23eb7ced7edd1
 ---
 **System** 
-* Added “Soft" screen calibration
-* New boot animation
+* Added "Soft" screen calibration
+* New boot animation
 * Optimized the clearing of recent apps
 
 **Others**
