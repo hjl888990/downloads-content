@@ -1,13 +1,13 @@
 === HTTP URL ===
-URL (FILE): http://oxygenos.oneplus.net.s3.amazonaws.com/OnePlus3TOxygen_28_OTA_056_all_1709201848_1a70057ab95f48b2.zip
-URL (MD5): http://oxygenos.oneplus.net.s3.amazonaws.com/OnePlus3TOxygen_28_OTA_056_all_1709201848_1a70057ab95f48b2.zip.md5
+URL (FILE): http://oxygenos.oneplus.net.s3.amazonaws.com/OnePlus3TOxygen_28_OTA_056_all_1709231856_adf3e427234b471f.zip
+URL (MD5): http://oxygenos.oneplus.net.s3.amazonaws.com/OnePlus3TOxygen_28_OTA_056_all_1709231856_adf3e427234b471f.zip.md5
 
 === HTTPS URL ===
-URL (FILE): https://oxygenos.oneplus.net.s3.amazonaws.com/OnePlus3TOxygen_28_OTA_056_all_1709201848_1a70057ab95f48b2.zip
-URL (MD5): https://oxygenos.oneplus.net.s3.amazonaws.com/OnePlus3TOxygen_28_OTA_056_all_1709201848_1a70057ab95f48b2.zip.md5
+URL (FILE): https://oxygenos.oneplus.net.s3.amazonaws.com/OnePlus3TOxygen_28_OTA_056_all_1709231856_adf3e427234b471f.zip
+URL (MD5): https://oxygenos.oneplus.net.s3.amazonaws.com/OnePlus3TOxygen_28_OTA_056_all_1709231856_adf3e427234b471f.zip.md5
 
 [Public] Anyone can read the file.
 
 ===================================================================
-file size: 1,571,035,850 Bytes (1.46GB)
-MD5 file content: 126337243cf4f3c0dede2605c5c20fc6  OnePlus3TOxygen_28_OTA_056_all_1709201848_1a70057ab95f48b2.zip
+file size: 1,571,000,727 Bytes (1.46GB)
+MD5 file content: d6ab3ea50e0987b771c4eaf6a88713be  OnePlus3TOxygen_28_OTA_056_all_1709231856_adf3e427234b471f.zip
