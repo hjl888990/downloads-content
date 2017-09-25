@@ -1,5 +1,5 @@
 title: OnePlus 3 OxygenOS Open Beta 24
-date: 2017-09-19
+date: 2017-09-24
 categories: OnePlus 3
 tags: Beta
 file_size: 1.49 GB
@@ -17,3 +17,6 @@ recovery_md5: ee2f1c21b2cf0dfe12e23eb7ced7edd1
 **Others**
 * Updated Community app to V1.9.5
 * Minor bug fixes
+
+**Note:**
+This is the updated version of Open Beta 24 that addressed some app compatibility issues.
