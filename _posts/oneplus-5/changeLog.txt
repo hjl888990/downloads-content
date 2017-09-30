@@ -1,0 +1,7 @@
+**System**
+* Now supports customization of notification ringtone
+* Improved launching speed of apps
+* Fixed display issues of some UI elements
+* Updated Android security patch to September
+* Fixed issue of no 4G+ network in some regions
+* General bug fixes
