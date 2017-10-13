@@ -1,7 +1,9 @@
 **System**
-* Now supports customization of notification ringtone
+* Supports customization of notification ringtone
 * Improved launching speed of apps
+* Optimized adaptive brightness 
+* Fixed issue of YouTube video lagging behind audio
 * Fixed display issues of some UI elements
-* Updated Android security patch to September
 * Fixed issue of no 4G+ network in some regions
+* Updated Android security patch to September
 * General bug fixes
