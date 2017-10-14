@@ -1,22 +1,21 @@
 **System**
-* Added lift up display 
-* Added Gaming Do Not Disturb 
-* Added low priority notification 
-* Added network speed in status bar 
-* Added scheduled night mode 
-* Added OnePlus Slate font 
-* Redesigned Dash Charge animation 
-* System stability and battery improvements 
+* Update to Android O (8.0)
+* Added Picture in Picture
+* Added Auto-fill
+* Added Smart text selection
+* New Quick Settings design
+* Updated security patch to September
 
 **Launcher**
-* Added Shot on OnePlus wallpaper 
+* Added notification dots
+* Now able to upload photos directly to Shot on OnePlus
 
-**Phone**
-* Redesigned calling UI 
+**Known issues of the first Android O Beta**
+* Fingerprint unlock may be a bit slow in some situations
+* Shortcut to access Google Photos is unavailable
+* Stability of NFC and Bluetooth need to be improved
+* Performance and compatibility of 3rd party apps will be optimized continuously
+* Complete device tree will be released after a week
 
-**Camera / Gallery**
-* Added Shot on OnePlus watermark 
-* Redesigned photo editor in Gallery 
-
-**File Manager**
-* Added secure box 
+**The OnePlus Music app has been removed from this build.**
+* If you want to install it back, please download the apk file from here: https://we.tl/VnNViD6N2j
