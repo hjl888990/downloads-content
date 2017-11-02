@@ -1,9 +1,8 @@
 **System**
-* Supports customization of notification ringtone
-* Improved launching speed of apps
-* Optimized adaptive brightness 
-* Fixed issue of YouTube video lagging behind audio
-* Fixed display issues of some UI elements
-* Fixed issue of no 4G+ network in some regions
-* Updated Android security patch to September
+* Supported Airtel VoLTE in India
+* Supported Band 66 of Freedom in Canada
+* Fixed Wi-Fi WPA2 security issue
+* Optimized battery usage in some cases
+* Optimized GPS accuracy
 * General bug fixes
+
