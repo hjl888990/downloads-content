@@ -6,7 +6,7 @@ file_size: 1.4 GB
 version: 4.1.7
 md5: 1bdf5b7a5b2f9a464a24abcd90973d88
 download: http://oxygenos.oneplus.net.s3.amazonaws.com/OnePlus3TOxygen_28_OTA_055_all_1708181537_507f4116c0a74095.zip
-recovery_link: http://oxygenos.oneplus.net.s3.amazonaws.com/recovery_op3.img
+recovery_link: http://oxygenos.oneplus.net.s3.amazonaws.com/recovery_op3t.img
 recovery_md5: ee2f1c21b2cf0dfe12e23eb7ced7edd1
 ---
 
