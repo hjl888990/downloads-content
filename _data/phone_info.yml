@@ -75,6 +75,6 @@ OnePlus 5_instruction_name: 'CE DOC'
 OnePlus 5_instruction_time:
 OnePlus 5_image_turnoff: 'images/OP3-turnoff.png'
 OnePlus 5_image_restart: 'images/OP3-restart.png'
-OnePlus 5_image_face: 'images/OP3-face.gif'
+OnePlus 5_image_face: 'images/OP5-face.gif'
 OnePlus 5_recovery_link: 'https://s3.amazonaws.com/oxygenos.oneplus.net/OP5_recovery.img'
 OnePlus 5_recovery_md5: '19088df0d775628be54564130987cdd8'
