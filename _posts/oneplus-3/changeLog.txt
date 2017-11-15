@@ -1,10 +1,8 @@
-**What’s new**
-* Added User Feedback app
-
 **System**
-* Improved Wifi and data connectivity
-* Improved the performance of NFC
-* Improved the stability of Picture in Picture
-* Fixed issue of missing voicemail tab in dialer
-* Fixed issue of occasional heating
-* General bug fixes
+* New UI for Do Not Disturb
+* Optimized standby battery usage
+* Smart Text Selection improvements
+* General performance improvements
+* Updated OnePlus and GMS applications
+* Updated Google security patch (October 2017)
+* Other bug fixes and optimizations
