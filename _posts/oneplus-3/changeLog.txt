@@ -11,4 +11,3 @@
 * Added notification dots
 * New app folder design 
 * Now able to upload photos directly to Shot on OnePlus
-
