@@ -1,8 +1,13 @@
 **System**
-* New UI for Do Not Disturb
-* Optimized standby battery usage
-* Smart Text Selection improvements
-* General performance improvements
-* Updated OnePlus and GMS applications
-* Updated Google security patch (October 2017)
-* Other bug fixes and optimizations
+* Update to Android O (8.0) 
+* Added Parallel Apps 
+* Added Picture in Picture 
+* Added Auto-fill 
+* Added Smart text selection 
+* New Quick Settings design
+* Updated security patch to September  
+
+**Launcher**
+* Added notification dots
+* New app folder design 
+* Now able to upload photos directly to Shot on OnePlus
