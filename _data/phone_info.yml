@@ -48,7 +48,7 @@ OnePlus 3_instruction: ''
 OnePlus 3_instruction_time: 
 OnePlus 3_image_turnoff: 'images/OP3-turnoff.png'
 OnePlus 3_image_restart: 'images/OP3-restart.png'
-OnePlus 3_image_face: 'images/OP3-face.gif'
+OnePlus 3_image_face: 'images/OP5-face.gif'
 OnePlus 3_recovery_link: 'http://oneplusroms.s3.amazonaws.com/recovery_OBT7.img?AWSAccessKeyId=AKIAJ2SIWE7D3VMMGOEQ&Expires=1483694615&Signature=1Momnxm8gHWw03D401Oof5YxnE4%3D'
 OnePlus 3_recovery_md5: '58f681691d044c3e2af8e717b306f1d0'
 
@@ -61,7 +61,7 @@ OnePlus 3T_instruction: ''
 OnePlus 3T_instruction_time:
 OnePlus 3T_image_turnoff: 'images/OP3-turnoff.png'
 OnePlus 3T_image_restart: 'images/OP3-restart.png'
-OnePlus 3T_image_face: 'images/OP3-face.gif'
+OnePlus 3T_image_face: 'images/OP5-face.gif'
 OnePlus 3T_recovery_link: 'http://oneplusroms.s3.amazonaws.com/recovery_OBT7.img?AWSAccessKeyId=AKIAJ2SIWE7D3VMMGOEQ&Expires=1483694615&Signature=1Momnxm8gHWw03D401Oof5YxnE4%3D'
 OnePlus 3T_recovery_md5: '58f681691d044c3e2af8e717b306f1d0'
 
@@ -78,3 +78,17 @@ OnePlus 5_image_restart: 'images/OP3-restart.png'
 OnePlus 5_image_face: 'images/OP5-face.gif'
 OnePlus 5_recovery_link: 'https://s3.amazonaws.com/oxygenos.oneplus.net/OP5_recovery.img'
 OnePlus 5_recovery_md5: '19088df0d775628be54564130987cdd8'
+
+OnePlus 5T_index: 6
+OnePlus 5T_image: 'https://image01.oneplus.net/shop/201711/23/489/cd09c23022b501884a6606f7ce8eb725_260_0.png'
+OnePlus 5T_image2x: https://image01.oneplus.net/shop/201711/23/489/cd09c23022b501884a6606f7ce8eb725.png'
+OnePlus 5T_manual: 'https://s3.amazonaws.com/oneplussupport/user-manual/OnePlus-5T-User-Manual-EN.pdf'
+OnePlus 5T_manual_time: 
+OnePlus 5T_instruction: 
+OnePlus 5T_instruction_name: 
+OnePlus 5T_instruction_time: 
+OnePlus 5T_image_turnoff: 'images/OP5T-turnoff.png'
+OnePlus 5T_image_restart: 'images/OP5T-restart.png'
+OnePlus 5T_image_face: 'images/OP5T-face.gif'
+OnePlus 5T_recovery_link: 
+OnePlus 5T_recovery_md5: 
