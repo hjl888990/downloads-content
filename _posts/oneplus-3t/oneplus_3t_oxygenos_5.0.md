@@ -1,5 +1,5 @@
 title: OnePlus 3T OxygenOS 5.0
-date: 2017-11-18
+date: 2017-11-24
 categories: OnePlus 3T
 tags: Stable
 file_size: 1.46 GB
