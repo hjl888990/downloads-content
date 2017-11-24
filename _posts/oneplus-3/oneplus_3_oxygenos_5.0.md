@@ -1,5 +1,5 @@
 title: OnePlus 3 OxygenOS 5.0
-date: 2017-11-18
+date: 2017-11-24
 categories: OnePlus 3
 tags: Stable
 file_size: 1.45 GB
