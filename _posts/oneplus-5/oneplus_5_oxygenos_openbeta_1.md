@@ -16,7 +16,7 @@ recovery_md5: 19088df0d775628be54564130987cdd8
 * Added Auto-fill
 * Added Smart text selection
 * New Quick Settings design
-* Updated security patch to November
+* Updated security patch to October
 
 **Launcher**
 * Added notification dots
