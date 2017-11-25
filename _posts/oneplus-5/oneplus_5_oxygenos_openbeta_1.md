@@ -10,14 +10,14 @@ recovery_link: http://oxygenos.oneplus.net.s3.amazonaws.com/OP5_recovery.img
 recovery_md5: 19088df0d775628be54564130987cdd8
 ---
 **System**
-* Updated to Android O (8.0) 
+* Updated to Android O (8.0)
 * Added Parallel Apps
 * Added Picture in Picture
 * Added Auto-fill
 * Added Smart text selection
 * New Quick Settings design
 * Updated security patch to November
- 
+
 **Launcher**
 * Added notification dots
 * New app folder design
