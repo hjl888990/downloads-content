@@ -1,13 +1,19 @@
-**System**
-* Update to Android O (8.0) 
-* Added Parallel Apps 
-* Added Picture in Picture 
-* Added Auto-fill 
-* Added Smart text selection 
-* New Quick Settings design
-* Updated security patch to September  
-
 **Launcher**
-* Added notification dots
-* New app folder design 
-* Now able to upload photos directly to Shot on OnePlus
+* Optimized and enhanced application shortcut menu
+* Optimized shelf visual style
+
+**Gallery**
+* Added a photo map to view photos by location
+* UI enhancements and other optimizations
+
+**Contacts**
+* Added emergency information (ICE) to your personal information
+
+**System**
+* Wireless hotspot management optimizations
+* Support for aptX/aptX HD
+* UI fixes for Quick Settings
+* Optimized Wi-Fi performance and security
+* Optimized battery usage statistics
+* Updated Android Security Patch
+* Other bug fixes and optimizations
