@@ -1,0 +1,10 @@
+**Camera**
+* Optimized UI of Camera 
+* Improvements for photo quality 
+
+**System**
+* Optimizations for Face unlock 
+* WiFi battery usage optimization
+* Improved stability of fingerprint and GPS 
+* General bug fixes and system stability improvements
+
