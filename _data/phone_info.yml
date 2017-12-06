@@ -84,8 +84,8 @@ OnePlus 5T_image: 'https://image01.oneplus.net/shop/201711/23/489/cd09c23022b501
 OnePlus 5T_image2x: https://image01.oneplus.net/shop/201711/23/489/cd09c23022b501884a6606f7ce8eb725.png'
 OnePlus 5T_manual: 'https://s3.amazonaws.com/oneplussupport/user-manual/OnePlus-5T-User-Manual-EN.pdf'
 OnePlus 5T_manual_time: 
-OnePlus 5T_instruction: 
-OnePlus 5T_instruction_name: 
+OnePlus 5T_instruction: 'https://s3.amazonaws.com/oneplussupport/user-manual/ONEPLUS_A5010_CE_DOC.pdf'
+OnePlus 5T_instruction_name: 'CE DOC'
 OnePlus 5T_instruction_time: 
 OnePlus 5T_image_turnoff: 'images/OP5T-turnoff.png'
 OnePlus 5T_image_restart: 'images/OP5T-restart.png'
