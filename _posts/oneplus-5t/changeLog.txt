@@ -1,10 +1,16 @@
+**Launcher**
+* Added a new wallpaper 
+
 **Camera**
 * Optimized UI of Camera 
 * Improvements for photo quality 
 
 **System**
+* Optimizations for audio from speaker and earphones 
+* Optimizations for vibration 
 * Optimizations for Face unlock 
 * WiFi battery usage optimization
 * Improved stability of fingerprint and GPS 
 * General bug fixes and system stability improvements
+
 
