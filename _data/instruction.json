@@ -1,0 +1,12 @@
+{
+  "default": {
+    "step 1": "Download the software build for your device at the bottom of this page.",
+    "step 2": "Plug your phone into your computer and copy the downloaded .zip to your phone’s storage. If you’re using a Mac, you can install [Android File Transfer](https://www.android.com/filetransfer/) for this operation.",
+    "step 3": "After the .zip file is copied to your phone, reboot your phone into recovery mode. To do this, shut down your device and turn it back on while holding the power and volume down buttons simultaneously.",
+    "step 1 ADB": "Download the software build for your device at the bottom of this page.\n\r*Make sure you have all necessary adb files installed on your computer.*",
+    "step 2 ADB": "Reboot your phone into recovery mode. To do this, shut down your device and turn it back on while holding the power and volume down buttons simultaneously.",
+    "step 3 ADB": "Choose \"Install from USB\" option in the recovery screen, tap OK to confirm. A screen with \"You are in sideload mode\" will be displayed.",
+    "step 4 ADB": "Connect your device to PC/Mac, run following command in command prompt / terminal\n\r*&nbsp;For Windows: \"adb sideload &lt;filename&gt;\"*\n\r*&nbsp;For Mac/Linux: \"./adb sideload &lt;filename&gt;\"*",
+    "step final": "Wait a while, your phone should now update to the selected build and reboot automatically to take you into OxygenOS."
+  }
+}

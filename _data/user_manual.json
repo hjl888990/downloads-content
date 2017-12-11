@@ -1,0 +1,12 @@
+{"OnePlus 5":
+  [
+    {"lang":"Italian","link":"https://s3.amazonaws.com/oneplussupport/user-manual/OnePlus+5+-+Online+User+Manual_Italian.pdf"},
+    {"lang":"Dannish", "link":"https://s3.amazonaws.com/oneplussupport/user-manual/OnePlus+5+-+Online+User+Manual_Danish.pdf"},
+    {"lang":"Dutch", "link":"https://s3.amazonaws.com/oneplussupport/user-manual/OnePlus+5+-+Online+User+Manual_Dutch.pdf"},
+    {"lang":"French", "link":"https://s3.amazonaws.com/oneplussupport/user-manual/OnePlus+5+-+Online+User+Manual_French.pdf"},
+    {"lang":"Finnish", "link":"https://s3.amazonaws.com/oneplussupport/user-manual/OnePlus+5+-+Online+User+Manual_Finnish.pdf"},
+    {"lang":"German", "link":"https://s3.amazonaws.com/oneplussupport/user-manual/OnePlus+5+-+Online+User+Manual_German.pdf"},
+    {"lang":"Spanish", "link":"https://s3.amazonaws.com/oneplussupport/user-manual/OnePlus+5+-+Online+User+Manual_Spanish.pdf"},
+    {"lang":"Swedish", "link":"https://s3.amazonaws.com/oneplussupport/user-manual/OnePlus+5+-+Online+User+Manual_Swedish.pdf"}
+  ]
+}
