@@ -1,4 +1,4 @@
-title: Coming soon  4.7.4
+title: OnePlus 5T OxygenOS 4.7.4
 date: 2017-12-11
 categories: OnePlus 5T
 tags: Stable
