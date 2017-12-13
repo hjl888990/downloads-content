@@ -1,19 +1,6 @@
-**Launcher**
-* Optimized and enhanced application shortcut menu
-* Optimized shelf visual style
-
-**Gallery**
-* Added a photo map to view photos by location
-* UI enhancements and other optimizations
-
-**Contacts**
-* Added emergency information (ICE) to your personal information
-
 **System**
-* Wireless hotspot management optimizations
-* Support for aptX/aptX HD
-* UI fixes for Quick Settings
-* Optimized Wi-Fi performance and security
-* Optimized battery usage statistics
-* Updated Android Security Patch
-* Other bug fixes and optimizations
+* Added OnePlus app “Notes”
+* Enabled VoLTE for Vodafone Indian SIM
+* Added notification of deleting contacts by 3rd party apps
+* NBA 2K15 performance fix
+* Fixed compatibility issue of some headphones
