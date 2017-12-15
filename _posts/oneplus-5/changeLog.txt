@@ -1,13 +1,19 @@
-**System**
-* Updated to Android O (8.0) 
-* Added Parallel Apps
-* Added Picture in Picture
-* Added Auto-fill
-* Added Smart text selection
-* New Quick Settings design
-* Updated security patch to November
- 
 **Launcher**
-* Added notification dots
-* New app folder design
-* Now able to upload photos directly to Shot on OnePlus
+* Fixed widget issues 
+* Fixed shortcut issues 
+
+**Camera**
+* UI improvements 
+
+**File Manager**
+* Added f4v format in video category 
+* Speed improvements while deleting massive files 
+
+**System**
+* Improvements for Reading Mode 
+* Improvements for vibration 
+* Improvements for Bluetooth audio 
+* Fixed Parallel Apps bugs 
+* Fixed reboot issue when using Picture in Picture 
+* Updated Android security patch to November 
+* General bug fixes and stability improvements 
