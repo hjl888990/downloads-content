@@ -1,16 +1,21 @@
-**Launcher**
-* Added a new wallpaper 
-
-**Camera**
-* Optimized UI of Camera 
-* Improvements for photo quality 
-
+**Notes (New OnePlus app**
+* Take note quickly and simply
+* Share note as picture
+* Memo widget on Shelf is editable
+ 
+**Quick clipboar**
+* Enhanced copying and editing ability
+ 
+**Weather**
+* New weather widget
+ 
+**File Manage**
+* Added large files category
+* Speed improvements while deleting massive files
+ 
 **System**
-* Optimizations for audio from speaker and earphones 
-* Optimizations for vibration 
-* Optimizations for Face unlock 
-* WiFi battery usage optimization
-* Improved stability of fingerprint and GPS 
-* General bug fixes and system stability improvements
-
-
+* No need to confirm after using PIN to unlock
+* Added OTG toggle in Quick Settings
+* Added notification when 3rd party apps delete contacts
+* Updated Android security patch to December
+* General bug fixes and improvements

@@ -1,6 +1,21 @@
+**Notes (New OnePlus app**
+* Take note quickly and simply
+* Share note as picture
+* Memo widget on Shelf is editable
+ 
+**Quick clipboar**
+* Enhanced copying and editing ability
+ 
+**Weather**
+* New weather widget
+ 
+**File Manage**
+* Added large files category
+* Speed improvements while deleting massive files
+ 
 **System**
-* Added OnePlus app “Notes”
-* Enabled VoLTE for Vodafone Indian SIM
-* Added notification of deleting contacts by 3rd party apps
-* NBA 2K15 performance fix
-* Fixed compatibility issue of some headphones
+* No need to confirm after using PIN to unlock
+* Added OTG toggle in Quick Settings
+* Added notification when 3rd party apps delete contacts
+* Updated Android security patch to December
+* General bug fixes and improvements
