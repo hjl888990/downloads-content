@@ -3,13 +3,13 @@
 * Share note as picture
 * Memo widget on Shelf is editable
  
-**Quick clipboar**
+**Quick clipboard**
 * Enhanced copying and editing ability
  
 **Weather**
 * New weather widget
  
-**File Manage**
+**File Manager**
 * Added large files category
 * Speed improvements while deleting massive files
  
