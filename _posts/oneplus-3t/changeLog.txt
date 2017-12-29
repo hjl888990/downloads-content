@@ -1,4 +1,4 @@
-**Notes (New OnePlus app**
+**Notes (New OnePlus) app**
 * Take note quickly and simply
 * Share note as picture
 * Memo widget on Shelf is editable
@@ -14,7 +14,6 @@
 * Speed improvements while deleting massive files
  
 **System**
-* No need to confirm after using PIN to unlock
 * Added OTG toggle in Quick Settings
 * Added notification when 3rd party apps delete contacts
 * Updated Android security patch to December
