@@ -4,11 +4,6 @@
 * Combine icon options with app shortcuts
 * Now able to upload photos to Shot on OnePlus
 
-**Notes (New OnePlus app)**
-* Take notes quickly and simply
-* Share notes as picture
-* Memo widget on Shelf is editable
- 
 **System**
 * Added Picture in Picture
 * Added Auto-Fill
