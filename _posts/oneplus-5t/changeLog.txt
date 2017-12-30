@@ -1,16 +1,12 @@
+**Updated to Android O (8.0)**
 **Launcher**
-* Added a new wallpaper 
-
-**Camera**
-* Optimized UI of Camera 
-* Improvements for photo quality 
+* Optimized the app shortcut style
+* Combine icon options with app shortcuts
+* Now able to upload photos to Shot on OnePlus
 
 **System**
-* Optimizations for audio from speaker and earphones 
-* Optimizations for vibration 
-* Optimizations for Face unlock 
-* WiFi battery usage optimization
-* Improved stability of fingerprint and GPS 
-* General bug fixes and system stability improvements
-
-
+* Added Picture in Picture
+* Added Auto-Fill
+* Added Smart Text Selection
+* New Quick Settings design
+* Updated Android security patch to December
