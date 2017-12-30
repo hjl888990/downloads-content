@@ -6,8 +6,8 @@ file_size: 1.61 GB
 version: Open Beta 1
 md5: 4e58d7fb3d377f9270118542821df727
 download: http://oxygenos.oneplus.net.s3.amazonaws.com/OnePlus5TOxygen_43_OTA_003_all_1712240047_6de0478c0ccb4d4e.zip
-recovery_link: http://oxygenos.oneplus.net.s3.amazonaws.com/OP5_recovery.img
-recovery_md5: 19088df0d775628be54564130987cdd8
+recovery_link: http://oxygenos.oneplus.net.s3.amazonaws.com/recovery.img
+recovery_md5: a998210ee56414314df2a1110fcbc50c
 ---
 **Updated to Android O (8.0)**
 **Launcher**
