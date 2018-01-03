@@ -9,6 +9,8 @@ download: http://oxygenos.oneplus.net.s3.amazonaws.com/OnePlus5TOxygen_43_OTA_00
 recovery_link: http://oxygenos.oneplus.net.s3.amazonaws.com/recovery.img
 recovery_md5: a998210ee56414314df2a1110fcbc50c
 ---
+**Hot fix: third party camera applications no longer capture green pictures with front camera**
+
 **Updated to Android O (8.0)**
 **Launcher**
 * Optimized the app shortcut style

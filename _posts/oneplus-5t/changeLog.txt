@@ -1,3 +1,6 @@
+**Hot fix: third party camera applications no longer capture green pictures
+with front camera**
+
 **Updated to Android O (8.0)**
 **Launcher**
 * Optimized the app shortcut style
