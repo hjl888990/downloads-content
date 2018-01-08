@@ -1,9 +1,28 @@
-**Recorder**
-* Added app shortcut on Launcher
+**Updated to Android O (8.0)**
+**Launcher**
+* Optimizations for Shelf
+* Now you can upload your photo through Shot on OnePlus
+
+**Camera**
+* New Camera UI design
+* Optimizations for photo quality
+* Added beauty effect for Portrait Mode
+
+**Gallery**
+* Added “Places” tab for viewing photos on a map
+
+**Calculator**
+* Added history function
+
+**Clock**
+* Added alarm calendar function
 
 **System**
-* Added face unlock
-* Optimizations for vibration
-* Fixed connection issue of 5G Wi-Fi
-* General bug fixes and improvements
+* Added Parallel Apps function
+* New design for Quick Settings
+* New design for Lift up display
+* Added “Adaptive model" screen calibration
+* Optimizations for Wi-Fi
+* Optimizations for Battery Saver
 * Updated Android security patch to December
+* Oxygen 5.0 hot fix
