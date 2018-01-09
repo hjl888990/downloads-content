@@ -1,15 +1,10 @@
-**Hot fix: third party camera applications no longer capture green pictures
-with front camera**
-
-**Updated to Android O (8.0)**
-**Launcher**
-* Optimized the app shortcut style
-* Combine icon options with app shortcuts
-* Now able to upload photos to Shot on OnePlus
+**Camera**
+* Stability improvements
+* Clarity improvements for selfie in low light
+* Performance improvements for 3rd party camera apps
 
 **System**
-* Added Picture in Picture
-* Added Auto-Fill
-* Added Smart Text Selection
-* New Quick Settings design
+* Added assistive lighting for face unlock
+* Improvements for expanded screenshot
+* Improvements for Wi-Fi display
 * Updated Android security patch to December
