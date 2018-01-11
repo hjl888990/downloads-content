@@ -1,3 +1,15 @@
+title: OnePlus 5 OxygenOS 5.0.1
+date: 2018-01-09
+categories: OnePlus 5
+tags: Stable
+file_size: 1.55 GB
+version: 5.0.1
+md5: fb5d456d4e013ad2fcddaa016a47aeea
+download: http://oxygenos.oneplus.net.s3.amazonaws.com/OnePlus5Oxygen_23_OTA_028_all_1801031502_109fde3709984ec8.zip
+recovery_link: http://oxygenos.oneplus.net.s3.amazonaws.com/OP5_recovery.img
+recovery_md5: 19088df0d775628be54564130987cdd8
+
+---
 **Updated to Android O (8.0)**
 **Launcher**
 * Optimizations for Shelf

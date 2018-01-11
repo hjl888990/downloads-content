@@ -1,6 +1,6 @@
-System
-- Added support for aptX HD 
-- Added Wi-Fi hotspot device manager
-- Added "Soft" screen calibration
-- Updated Android security patch to December
-- General bug fixes and stability improvements
+**System**
+* Added support for aptX HD 
+* Added Wi-Fi hotspot device manager
+* Added "Soft" screen calibration
+* Updated Android security patch to December
+* General bug fixes and stability improvements

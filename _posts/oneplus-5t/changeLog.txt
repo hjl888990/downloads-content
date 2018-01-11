@@ -1,0 +1,10 @@
+**Camera**
+* Stability improvements
+* Clarity improvements for selfie in low light
+* Performance improvements for 3rd party camera apps
+
+**System**
+* Added assistive lighting for face unlock
+* Improvements for expanded screenshot
+* Improvements for Wi-Fi display
+* Updated Android security patch to December
