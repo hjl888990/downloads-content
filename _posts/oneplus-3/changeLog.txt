@@ -1,6 +1,10 @@
-**System**
-* Added support for aptX HD 
-* Added Wi-Fi hotspot device manager
-* Added "Soft" screen calibration
-* Updated Android security patch to December
+**Release note**
+* Added face unlock function 
+* Added OnePlus Switch application for backup & restore 
+* Supported Airtel VoLTE in India
 * General bug fixes and stability improvements
+
+** Upgraded OnePlus Launcher to V2.3**
+* New application drawer design
+* Auto-naming folder
+* Dynamic icon function for desktop clock icon 
