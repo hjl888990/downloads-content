@@ -10,6 +10,7 @@ recovery_link: http://oxygenos.oneplus.net.s3.amazonaws.com/recovery_op3.img
 recovery_md5: ee2f1c21b2cf0dfe12e23eb7ced7edd1
 ---
 **System**
+* Supported Airtel VoLTE in India (VoLTE service location depends on Airtel)
 * Added support for aptX HD 
 * Added Wi-Fi hotspot device manager
 * Added "Soft" screen calibration
