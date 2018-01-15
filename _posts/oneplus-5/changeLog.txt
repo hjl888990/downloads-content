@@ -1,28 +1,22 @@
-**Updated to Android O (8.0)**
-**Launcher**
-* Optimizations for Shelf
-* Now you can upload your photo through Shot on OnePlus
-
-**Camera**
-* New Camera UI design
-* Optimizations for photo quality
-* Added beauty effect for Portrait Mode
-
-**Gallery**
-* Added “Places” tab for viewing photos on a map
-
-**Calculator**
-* Added history function
-
-**Clock**
-* Added alarm calendar function
-
+**File manager**
+* Improved experience when file deleting
+* Added big file management function
+ 
+**Clipboard**
+* Added whole new Clipboard application
+ 
+**OnePlus Switch**
+* Added whole new OnePlus Switch application for backup & restore
+ 
+**Phone**
+* Added caller phone number and location information in calling notification
+ 
+**OnePlus Launcher**
+* New application drawer design
+* Auto-naming folder
+* Dynamic icon function for desktop clock icon
+ 
 **System**
-* Added Parallel Apps function
-* New design for Quick Settings
-* New design for Lift up display
-* Added “Adaptive model" screen calibration
-* Optimizations for Wi-Fi
-* Optimizations for Battery Saver
-* Updated Android security patch to December
-* Oxygen 5.0 hot fix
+* Improved power consumption measurement
+* Optimized management logic for high power consumption application
+* Added intelligent background application management solution

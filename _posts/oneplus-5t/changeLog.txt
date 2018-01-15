@@ -1,10 +1,22 @@
-**Camera**
-* Stability improvements
-* Clarity improvements for selfie in low light
-* Performance improvements for 3rd party camera apps
-
+**File manager**
+* Improved experience when file deleting
+* Added big file management function
+ 
+**Clipboard**
+* Added whole new Clipboard application
+ 
+**OnePlus Switch**
+* Added whole new OnePlus Switch application for backup & restore
+ 
+**Phone**
+* Added caller phone number and location information in calling notification
+ 
+**OnePlus Launcher**
+* New application drawer design
+* Auto-naming folder
+* Dynamic icon function for desktop clock icon
+ 
 **System**
-* Added assistive lighting for face unlock
-* Improvements for expanded screenshot
-* Improvements for Wi-Fi display
-* Updated Android security patch to December
+* Improved power consumption measurement
+* Optimized management logic for high power consumption application
+* Added intelligent background application management solution
