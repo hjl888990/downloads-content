@@ -33,11 +33,11 @@
       "link": "https://s3.amazonaws.com/oneplussupport/user-manual/OnePlus+5+-+Online+User+Manual_Swedish.pdf"
     }
   ],
-  
+
   "OnePlus 3T": [
     {
-      "lang": "Italian",
-      "link": "https://s3.amazonaws.com/oneplussupport/user-manual/OnePlus+5+-+Online+User+Manual_Italian.pdf"
+      "lang": "German",
+      "link": "https://s3.amazonaws.com/oneplussupport/User+manual/USER_MANUAL_DE.pdf"
     }
   ]
 }
