@@ -1,22 +1,18 @@
-**File manager**
-* Improved experience when file deleting
-* Added big file management function
+**Upgraded Android version to Oreo(8.0)**
  
-**Clipboard**
-* Added whole new Clipboard application
+**Camera**
+* New Camera UI design
+* Optimizations for photo quality
+* Added beauty effect for Portrait Mode
  
-**OnePlus Switch**
-* Added whole new OnePlus Switch application for backup & restore
- 
-**Phone**
-* Added caller phone number and location information in calling notification
- 
-**OnePlus Launcher**
-* New application drawer design
-* Auto-naming folder
-* Dynamic icon function for desktop clock icon
+**Applications**
+* New Launcher V2.2
+* New Gallery V2.0
+* New Weather V1.9
+* New File Manager V1.7.6
  
 **System**
-* Improved power consumption measurement
-* Optimized management logic for high power consumption application
-* Added intelligent background application management solution
+* Added Parallel Apps function
+* New design for Quick Settings
+* General bug fixes and improvements
+* Applied CPU security patch: CVE-2017-13218
