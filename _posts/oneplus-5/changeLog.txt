@@ -2,16 +2,11 @@
 **Launcher**
 * Optimizations for Shelf
 * Now you can upload your photo through Shot on OnePlus
-<<<<<<< HEAD
 
-=======
- 
->>>>>>> op5_5.0_mp
 **Camera**
 * New Camera UI design
 * Optimizations for photo quality
 * Added beauty effect for Portrait Mode
-<<<<<<< HEAD
 
 **Gallery**
 * Added “Places” tab for viewing photos on a map
@@ -25,27 +20,3 @@
 **System**
 * Added Parallel Apps function
 * New design for Quick Settings
-=======
- 
-**Gallery**
-* Added “Places” tab for viewing photos on a map
- 
-**Calculator**
-* Added history function
- 
-**Clock**
-* Added alarm calendar function
- 
-**System**
-* Added Parallel Apps function
-* New design for Quick Settings 
->>>>>>> op5_5.0_mp
-* New design for Lift up display
-* Added “Adaptive model" screen calibration
-* Optimizations for Wi-Fi
-* Optimizations for Battery Saver
-* Updated Android security patch to December
-<<<<<<< HEAD
-* Oxygen 5.0 hot fix
-=======
->>>>>>> op5_5.0_mp
