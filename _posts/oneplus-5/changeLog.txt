@@ -1,22 +1,9 @@
-**Updated to Android O (8.0)**
-**Launcher**
-* Optimizations for Shelf
-* Now you can upload your photo through Shot on OnePlus
-
-**Camera**
-* New Camera UI design
-* Optimizations for photo quality
-* Added beauty effect for Portrait Mode
-
-**Gallery**
-* Added “Places” tab for viewing photos on a map
-
-**Calculator**
-* Added history function
-
-**Clock**
-* Added alarm calendar function
-
+**Phone**
+* Added pick-up gesture switcher
+* Added SMS categorized function in India
+* Removed phone recognized function in India
+ 
 **System**
-* Added Parallel Apps function
-* New design for Quick Settings
+* Removed Clipboard function
+* General bug fixes and improvements
+* Applied CPU security patch: CVE-2017-13218
