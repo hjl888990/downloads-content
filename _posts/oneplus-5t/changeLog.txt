@@ -12,7 +12,6 @@
 * New File Manager V1.7.6
  
 **System**
-* Added Parallel Apps function
 * New design for Quick Settings
 * General bug fixes and improvements
 * Applied CPU security patch: CVE-2017-13218

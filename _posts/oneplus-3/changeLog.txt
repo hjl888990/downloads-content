@@ -1,10 +1,6 @@
-**Release note**
-* Added face unlock function 
-* Added OnePlus Switch application for backup & restore 
-* Supported Airtel VoLTE in India
-* General bug fixes and stability improvements
-
-** Upgraded OnePlus Launcher to V2.3**
-* New application drawer design
-* Auto-naming folder
-* Dynamic icon function for desktop clock icon 
+**Phone**
+* Added pick-up gesture switcher
+* Added SMS categorized function in India
+ 
+**System**
+* General bug fixes and improvements
