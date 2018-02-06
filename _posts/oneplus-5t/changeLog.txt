@@ -1,10 +1,5 @@
 **Upgraded Android version to Oreo(8.0)**
  
-**Camera**
-* New Camera UI design
-* Optimizations for photo quality
-* Added beauty effect for Portrait Mode
- 
 **Applications**
 * New Launcher V2.2
 * New Gallery V2.0
