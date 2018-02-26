@@ -1,12 +1,3 @@
-**Upgraded Android version to Oreo(8.0)**
- 
-**Applications**
-* New Launcher V2.2
-* New Gallery V2.0
-* New Weather V1.9
-* New File Manager V1.7.6
- 
-**System**
-* New design for Quick Settings
-* General bug fixes and improvements
-* Applied CPU security patch: CVE-2017-13218
+**Bug fixes**
+* Fixed sound malfunction for incoming call or notification
+* Fixed sound instabilities during video playback
