@@ -12,12 +12,10 @@ recovery_md5: 19088df0d775628be54564130987cdd8
 **Upgraded system to Android™ 8.1 Oreo™**
 
 **Phone**
-
 * Added New auto pick up gesture - answer incoming call by raising the phone
 * Added global roaming solution
 
 **Gaming mode**
-
 * Added new optimizations in gaming mode for immersive gaming experience including
 * notifications blocking, power saving and pausing adaptive brightness
 

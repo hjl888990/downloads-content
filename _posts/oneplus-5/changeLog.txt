@@ -1,3 +1,19 @@
-**Bug fixes**
-* Fixed sound malfunction for incoming call or notification
-* Fixed sound instabilities during video playback
+**Upgraded system to Android™ 8.1 Oreo™**
+
+**Phone**
+
+* Added New auto pick up gesture - answer incoming call by raising the phone
+* Added global roaming solution
+
+**Gaming mode**
+
+* Added new optimizations in gaming mode for immersive gaming experience including
+* notifications blocking, power saving and pausing adaptive brightness
+
+**System**
+* Added more clock styles for ambient display
+* Optimized full screen gesture support (this is only for 5T)
+* Updated Android security patch to 2018-02
+
+**OnePlus Switch**
+* Supported data migration for application backup
