@@ -1,6 +1,14 @@
 **Phone**
-* Added pick-up gesture switcher
-* Added SMS categorized function in India
- 
+* New auto pick up gesture; answer an incoming call by raising the phone
+
+**Gallery V2.5**
+* New design for Collections tab
+* Added reorder function for Collections
+* Added recently deleted Collection
+
+**OnePlus Switch**
+* Supported data migration for application backup
+
 **System**
+* Updated Android security patch to 2018-02
 * General bug fixes and improvements
