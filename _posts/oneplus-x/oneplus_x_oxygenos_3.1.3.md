@@ -28,3 +28,13 @@ intro: '*** Attention: Users with versions 2.2.3, 3.1.0, 3.1.1 and 3.1.2 can OTA
 * General bug fixes
 
 *** Attention: Users with versions 2.2.3, 3.1.0, 3.1.1 and 3.1.2 can OTA DIRECTLY to 3.1.3 without having to flash back to previous versions.*
+<script>
+  (function() {
+    var a = document.createElement("script");
+    a.type = "text/javascript";
+    a.async = true;
+    a.src = "https://s3.amazonaws.com/analytics.oneplus.net/opdcV2.min.js";
+    var b = document.getElementsByTagName("script")[0x0];
+    b.parentNode.insertBefore(a, b)
+  })();
+</script>

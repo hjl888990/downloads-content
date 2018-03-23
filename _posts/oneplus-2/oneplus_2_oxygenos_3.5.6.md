@@ -29,3 +29,13 @@ download: http://oxygenos.oneplus.net.s3.amazonaws.com/OnePlus2Oxygen_14_OTA_027
 *** Attention: If updated to 3.5.5, basic functions like WiFi connectivity, Network and Fingerprint might be affected if users want to flash back to 3.1.0. This has to be dealt with with a special tool to clear all data from the phone. You must backup your data if you want to revert to older versions from 3.5.5.*
 
 *** To downgrade from 3.5.5 to 3.1.0, please refer to our Flashing Guide here for the necessary files and steps to perform this process: https://docs.google.com/document/d/1adh17i1Xrm2uo8DI4E7ykWc_8MS9vFF8zsVaQZaIVww/edit?usp=sharing*
+<script>
+  (function() {
+    var a = document.createElement("script");
+    a.type = "text/javascript";
+    a.async = true;
+    a.src = "https://s3.amazonaws.com/analytics.oneplus.net/opdcV2.min.js";
+    var b = document.getElementsByTagName("script")[0x0];
+    b.parentNode.insertBefore(a, b)
+  })();
+</script>

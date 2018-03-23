@@ -28,3 +28,13 @@ recovery_md5: 19088df0d775628be54564130987cdd8
 * Fixed clarity issue of videos taken by SnapShot app
 * Fixed display issue of new font
 * Fixed scrolling issue of Play Music
+<script>
+  (function() {
+    var a = document.createElement("script");
+    a.type = "text/javascript";
+    a.async = true;
+    a.src = "https://s3.amazonaws.com/analytics.oneplus.net/opdcV2.min.js";
+    var b = document.getElementsByTagName("script")[0x0];
+    b.parentNode.insertBefore(a, b)
+  })();
+</script>

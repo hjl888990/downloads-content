@@ -30,3 +30,13 @@ recovery_md5: ee2f1c21b2cf0dfe12e23eb7ced7edd1
 
 **The OnePlus Music app has been removed from this build.**
 * If you want to install it back, please download the apk file from here: https://we.tl/VnNViD6N2j
+<script>
+  (function() {
+    var a = document.createElement("script");
+    a.type = "text/javascript";
+    a.async = true;
+    a.src = "https://s3.amazonaws.com/analytics.oneplus.net/opdcV2.min.js";
+    var b = document.getElementsByTagName("script")[0x0];
+    b.parentNode.insertBefore(a, b)
+  })();
+</script>

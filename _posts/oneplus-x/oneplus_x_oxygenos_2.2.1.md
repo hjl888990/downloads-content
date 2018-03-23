@@ -15,3 +15,13 @@ alias: 2016-04-02/opx/OnePlus_X_OxygenOS_2.2.1/
 * APN update to support Tigo carrier
 * Security patch update
 * General bug fixes and optimizations
+<script>
+  (function() {
+    var a = document.createElement("script");
+    a.type = "text/javascript";
+    a.async = true;
+    a.src = "https://s3.amazonaws.com/analytics.oneplus.net/opdcV2.min.js";
+    var b = document.getElementsByTagName("script")[0x0];
+    b.parentNode.insertBefore(a, b)
+  })();
+</script>

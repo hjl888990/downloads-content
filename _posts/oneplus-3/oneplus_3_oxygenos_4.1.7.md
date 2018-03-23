@@ -21,5 +21,14 @@ recovery_md5: ee2f1c21b2cf0dfe12e23eb7ced7edd1
 * Rendering issue in Indian Kannada language
 * App locker issue caused by some 3rd party apps
 * As per Google, Hangouts will be removed if you have never updated it on Play Store. To keep Hangouts, please update it prior to the upgrade
-
+<script>
+  (function() {
+    var a = document.createElement("script");
+    a.type = "text/javascript";
+    a.async = true;
+    a.src = "https://s3.amazonaws.com/analytics.oneplus.net/opdcV2.min.js";
+    var b = document.getElementsByTagName("script")[0x0];
+    b.parentNode.insertBefore(a, b)
+  })();
+</script>
 

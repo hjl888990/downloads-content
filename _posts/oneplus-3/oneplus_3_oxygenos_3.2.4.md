@@ -10,3 +10,13 @@ download: https://s3.amazonaws.com/oxygenos.oneplus.net/OnePlus3Oxygen_16_OTA_01
 * Fixed the auto-reboot issue.
 * Improved call quality.
 * Implemented various fixes and carrier optimizations.
+<script>
+  (function() {
+    var a = document.createElement("script");
+    a.type = "text/javascript";
+    a.async = true;
+    a.src = "https://s3.amazonaws.com/analytics.oneplus.net/opdcV2.min.js";
+    var b = document.getElementsByTagName("script")[0x0];
+    b.parentNode.insertBefore(a, b)
+  })();
+</script>

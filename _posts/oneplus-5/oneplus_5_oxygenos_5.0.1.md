@@ -38,3 +38,13 @@ recovery_md5: 19088df0d775628be54564130987cdd8
 * Optimizations for Battery Saver
 * Updated Android security patch to December
 * Oxygen 5.0 hot fix
+<script>
+  (function() {
+    var a = document.createElement("script");
+    a.type = "text/javascript";
+    a.async = true;
+    a.src = "https://s3.amazonaws.com/analytics.oneplus.net/opdcV2.min.js";
+    var b = document.getElementsByTagName("script")[0x0];
+    b.parentNode.insertBefore(a, b)
+  })();
+</script>

@@ -13,3 +13,13 @@ recovery_md5: a998210ee56414314df2a1110fcbc50c
 **Bug fixes**
 * Fixed sound malfunction for incoming call or notification
 * Fixed sound instabilities during video playback
+<script>
+  (function() {
+    var a = document.createElement("script");
+    a.type = "text/javascript";
+    a.async = true;
+    a.src = "https://s3.amazonaws.com/analytics.oneplus.net/opdcV2.min.js";
+    var b = document.getElementsByTagName("script")[0x0];
+    b.parentNode.insertBefore(a, b)
+  })();
+</script>

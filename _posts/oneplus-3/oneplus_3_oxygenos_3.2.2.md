@@ -14,3 +14,13 @@ download: https://s3.amazonaws.com/oxygenos.oneplus.net/OnePlus3Oxygen_16_OTA_01
 * Improved noise cancellation in video recording
 * Updated 4K video recording codec
 * Added latest security patches and various optimizations
+<script>
+  (function() {
+    var a = document.createElement("script");
+    a.type = "text/javascript";
+    a.async = true;
+    a.src = "https://s3.amazonaws.com/analytics.oneplus.net/opdcV2.min.js";
+    var b = document.getElementsByTagName("script")[0x0];
+    b.parentNode.insertBefore(a, b)
+  })();
+</script>

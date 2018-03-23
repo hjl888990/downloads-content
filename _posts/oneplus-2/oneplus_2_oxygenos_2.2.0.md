@@ -16,3 +16,13 @@ alias: 2015-12-21/op2/OnePlus_2_OxygenOS_2.2.0/
 * Security patches
 * Holiday wallpapers
 * General bug fixes and optimizations
+<script>
+  (function() {
+    var a = document.createElement("script");
+    a.type = "text/javascript";
+    a.async = true;
+    a.src = "https://s3.amazonaws.com/analytics.oneplus.net/opdcV2.min.js";
+    var b = document.getElementsByTagName("script")[0x0];
+    b.parentNode.insertBefore(a, b)
+  })();
+</script>

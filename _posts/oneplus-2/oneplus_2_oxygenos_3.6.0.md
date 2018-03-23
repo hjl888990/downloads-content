@@ -15,5 +15,15 @@ download: http://oxygenos.oneplus.net.s3.amazonaws.com/OnePlus2Oxygen_14_OTA_031
 **Bug Fixes:**
 * Fixed VoLTE related issues in India
 * Fixed device not being able to automatically register on 4G networks
+<script>
+  (function() {
+    var a = document.createElement("script");
+    a.type = "text/javascript";
+    a.async = true;
+    a.src = "https://s3.amazonaws.com/analytics.oneplus.net/opdcV2.min.js";
+    var b = document.getElementsByTagName("script")[0x0];
+    b.parentNode.insertBefore(a, b)
+  })();
+</script>
 
 

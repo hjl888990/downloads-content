@@ -17,3 +17,13 @@ download: http://oxygenos.oneplus.net.s3.amazonaws.com/OnePlusOxygen_14_OTA_012_
 * Fixed network operator selection issue
 * Fixed screen rotation issue
 * General improvements and bug fixes
+<script>
+  (function() {
+    var a = document.createElement("script");
+    a.type = "text/javascript";
+    a.async = true;
+    a.src = "https://s3.amazonaws.com/analytics.oneplus.net/opdcV2.min.js";
+    var b = document.getElementsByTagName("script")[0x0];
+    b.parentNode.insertBefore(a, b)
+  })();
+</script>

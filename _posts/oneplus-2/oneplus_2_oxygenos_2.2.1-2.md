@@ -12,3 +12,13 @@ We have pushed out a hotfix patch for OnePlus 2 v2.2.1-2 on 4/23 (versioned: 2.2
 * This is a hotfix update for customers using Deutsche Telekom SIMs. We recommend updating your device to prevent possible compatibility issues in the future.
 
 This roll out will **NOT** be a global roll out and will only OTA to Germany and Austria user only. 
+<script>
+  (function() {
+    var a = document.createElement("script");
+    a.type = "text/javascript";
+    a.async = true;
+    a.src = "https://s3.amazonaws.com/analytics.oneplus.net/opdcV2.min.js";
+    var b = document.getElementsByTagName("script")[0x0];
+    b.parentNode.insertBefore(a, b)
+  })();
+</script>

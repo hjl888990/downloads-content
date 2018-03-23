@@ -27,3 +27,13 @@ alias: 2016-03-30/op2/OnePlus_2_OygenOS_3.0_community_build/
 * Language localization not complete
 
 *** We only support dirty flashing of this build using Oxygen recovery. Dirty flashing requires OxygenOS 2.2.0 or higher. Factory reset is needed if you are using any other recovery or coming from any other ROM. We do not guarantee these cases to work properly.*
+<script>
+  (function() {
+    var a = document.createElement("script");
+    a.type = "text/javascript";
+    a.async = true;
+    a.src = "https://s3.amazonaws.com/analytics.oneplus.net/opdcV2.min.js";
+    var b = document.getElementsByTagName("script")[0x0];
+    b.parentNode.insertBefore(a, b)
+  })();
+</script>
