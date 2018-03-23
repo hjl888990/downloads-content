@@ -12,5 +12,15 @@ download: //s3.amazonaws.com/oxygenos.oneplus.net/OnePlusXOxygen_14_OTA_016_all_
 * Improved HFR setting in video capture
 * Implemented September Android security patches
 * General bug fixes
+<script>
+  (function() {
+    var a = document.createElement("script");
+    a.type = "text/javascript";
+    a.async = true;
+    a.src = "https://s3.amazonaws.com/analytics.oneplus.net/opdcV2.min.js";
+    var b = document.getElementsByTagName("script")[0x0];
+    b.parentNode.insertBefore(a, b)
+  })();
+</script>
 
 If you find any other issues, please let us know using [this form](https://goo.gl/forms/uiHuJbnqLeENP7FE2).
