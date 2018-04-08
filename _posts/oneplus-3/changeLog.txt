@@ -1,14 +1,4 @@
-**Phone**
-* New auto pick up gesture; answer an incoming call by raising the phone
+**Launcher**
 
-**Gallery V2.5**
-* New design for Collections tab
-* Added reorder function for Collections
-* Added recently deleted Collection
-
-**OnePlus Switch**
-* Supported data migration for application backup
-
-**System**
-* Updated Android security patch to 2018-02
+* Added recent search tag in search app section of the app drawer
 * General bug fixes and improvements
