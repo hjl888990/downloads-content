@@ -1,4 +1,9 @@
-**Launcher**
+**System**
+* Updated Android security patch to 2018-04
+ 
+**OnePlus Clock**
+* Changes to alarm background color and other UI changes
+* Stopwatch updated with new UI
 
-* Added recent search tag in search app section of the app drawer
-* General bug fixes and improvements
+**Card Package**
+* Added new membership card in Shelf 
