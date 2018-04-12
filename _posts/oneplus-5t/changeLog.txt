@@ -12,3 +12,4 @@
  
 **System**
 * Updated Android security patch to 2018-04
+* Fixed issues with Default volume to adjust
