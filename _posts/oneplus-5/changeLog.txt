@@ -1,15 +1,6 @@
-**Earphone mode**
-* Added Auto play - Autoplay paused music when connected to earphones
-* Added Notification ringtone options
-* Added Broadcast caller information - Announce caller information when using earphones
+**Launcher**
+* Supported double-tap to lock screen
+* Improved searched history for App drawer
  
-**OnePlus Clock**
-* Changes to alarm background color and other UI changes
-* Stopwatch updated with new UI
- 
-**Card Package**
-* Added new membership card in Shelf 
- 
-**System**
-* Updated Android security patch to 2018-04
-* Fixed issues with Default volume to adjust
+**File manager**
+* Optimized scanning logic for large files
