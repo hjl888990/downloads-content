@@ -1,9 +1,7 @@
-**System**
-* Updated Android security patch to 2018-04
+**Launcher**
+* Supported double-tap to lock screen
+* Improved searched history for App drawer
  
-**OnePlus Clock**
-* Changes to alarm background color and other UI changes
-* Stopwatch updated with new UI
-
-**Card Package**
-* Added new membership card in Shelf 
+**File manager**
+* Hide lock-box entry in guest mode
+* Optimized scanning logic for large files
