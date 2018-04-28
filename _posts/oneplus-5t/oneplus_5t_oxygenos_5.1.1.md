@@ -6,8 +6,8 @@ file_size: 1.60 GB
 version: 5.1.1
 md5: dbc3e682238f2db7612065276a535a49
 download: http://oxygenos.oneplus.net.s3.amazonaws.com/OnePlus5TOxygen_43_OTA_034_all_1804201221_6d7a5834eb364dc6.zip
-recovery_link: http://oxygenos.oneplus.net.s3.amazonaws.com/recovery.img
-recovery_md5: a998210ee56414314df2a1110fcbc50c
+recovery_link: https://oxygenos.oneplus.net.s3.amazonaws.com/recovery.img
+recovery_md5: d4e630135f0a1eb6dd4db6c8124474eb
 
 ---
 **Hot fix**

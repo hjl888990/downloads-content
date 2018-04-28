@@ -1,6 +1,15 @@
-**Launcher**
-* Supported double-tap to lock screen
-* Improved searched history for App drawer
+**Hot fix**
+* Fixed ringtone issue for phone and notifications
+* Fixed Google Pay app appearing twice in app drawer
  
-**File manager**
-* Optimized scanning logic for large files
+**System**
+* Updated system to Android™ 8.1 Oreo™
+* Updated Android security patch to 2018-04
+* Added full-screen gesture support
+ 
+**Gaming mode**
+* Added new optimizations in gaming mode including power saving and pausing adaptive brightness
+ 
+**Launcher**
+* Added category tags in search section of app drawer
+* Auto name folders based on category
