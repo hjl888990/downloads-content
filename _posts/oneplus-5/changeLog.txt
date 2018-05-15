@@ -1,14 +1,15 @@
-**Hot fix**
-* Fixed ringtone issue for phone and notifications
-* Fixed Google Pay app appearing twice in app drawer
- 
 **System**
-* Updated system to Android™ 8.1 Oreo™
-* Updated Android security patch to 2018-04
- 
-**Gaming mode**
-* Added new optimizations in gaming mode including power saving and pausing adaptive brightness
- 
+* Updated Android security patch to May
+
 **Launcher**
-* Added category tags in search section of app drawer
-* Auto name folders based on category
+* Added Toolbox Card in shelf
+* Added Hidded Space in app drawer
+* Added support for editing dynamic icons(weather,clock and calendar)
+
+**OnePlus Switch**
+* Optimized user interface for backup & restore 
+* Optimized logic for time remaining
+* General bug fixes and stability improvements
+
+**Messages**
+* Added Group MMS
