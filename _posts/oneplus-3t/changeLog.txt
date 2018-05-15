@@ -1,7 +1,15 @@
+**System**
+* Updated Android security patch to May
+
 **Launcher**
-* Supported double-tap to lock screen
-* Improved searched history for App drawer
- 
-**File manager**
-* Hide lock-box entry in guest mode
-* Optimized scanning logic for large files
+* Added Toolbox Card in shelf
+* Added Hidded Space in app drawer
+* Added Support for editing dynamic icons(weather,clock and calendar)
+
+**OnePlus Switch**
+* Optimized user interface for backup & restore 
+* Optimized logic for time remaining
+* General bug fixes and stability improvements
+
+**Messages**
+* Added Group MMS
