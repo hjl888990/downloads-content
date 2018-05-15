@@ -6,8 +6,8 @@ file_size: 1.61 GB
 version: Open Beta 10
 md5: 7c9e929b96d24d4f56f5c0e139294a8b
 download: http://oxygenos.oneplus.net.s3.amazonaws.com/OnePlus5Oxygen_23_OTA_012_all_1805141044_83e5b367842a40f7.zip
-recovery_link: http://oxygenos.oneplus.net.s3.amazonaws.com/OP5_recovery.img
-recovery_md5: 19088df0d775628be54564130987cdd8
+recovery_link: https://oxygenos.oneplus.net.s3.amazonaws.com/recovery.img
+recovery_md5: afcdd73ccbadc488f7b6993a862689e5
 ---
 **System**
 * Updated Android security patch to May
