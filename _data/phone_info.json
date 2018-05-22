@@ -103,9 +103,11 @@
 "OnePlus 6": {
     "index": 7,
     "image": "https://image01.oneplus.net/ebp/201805/14/387/dc43316081bf1ccd648a51f0c45c681f_260_0.png",
-    "image2x": "https://image01.oneplus.net/ebp/201805/14/387/dc43316081bf1ccd648a51f0c45c681f.png'",
+    "image2x": "https://image01.oneplus.net/ebp/201805/14/387/dc43316081bf1ccd648a51f0c45c681f.png",
     "manual": "https://s3.amazonaws.com/oneplussupport/User+manual/USER_MANUAL_OP6_FINAL.pdf",
     "manual_time": null,
+    "instruction": "",
+    "instruction_time": null,
     "image_turnoff": "images/OP6-turnoff.png",
     "image_restart": "images/OP6-restart.png",
     "image_face": "images/OP6-face.gif",
