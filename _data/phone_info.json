@@ -88,7 +88,7 @@
   "OnePlus 5T": {
     "index": 6,
     "image": "https://image01.oneplus.net/shop/201711/23/489/cd09c23022b501884a6606f7ce8eb725_260_0.png",
-    "image2x": "https://image01.oneplus.net/shop/201711/23/489/cd09c23022b501884a6606f7ce8eb725.png'",
+    "image2x": "https://image01.oneplus.net/shop/201711/23/489/cd09c23022b501884a6606f7ce8eb725.png",
     "manual": "https://s3.amazonaws.com/oneplussupport/user-manual/OnePlus-5T-User-Manual-EN.pdf",
     "manual_time": null,
     "instruction": "https://s3.amazonaws.com/oneplussupport/user-manual/ONEPLUS_A5010_CE_DOC.pdf",
@@ -97,6 +97,18 @@
     "image_turnoff": "images/OP5T-turnoff.png",
     "image_restart": "images/OP5T-restart.png",
     "image_face": "images/OP5T-face.gif",
+    "recovery_link": null,
+    "recovery_md5": null
+  },
+"OnePlus 6": {
+    "index": 7,
+    "image": "https://image01.oneplus.net/ebp/201805/14/387/dc43316081bf1ccd648a51f0c45c681f_260_0.png",
+    "image2x": "https://image01.oneplus.net/ebp/201805/14/387/dc43316081bf1ccd648a51f0c45c681f.png'",
+    "manual": "https://s3.amazonaws.com/oneplussupport/User+manual/USER_MANUAL_OP6_FINAL.pdf",
+    "manual_time": null,
+    "image_turnoff": "images/OP6-turnoff.png",
+    "image_restart": "images/OP6-restart.png",
+    "image_face": "images/OP6-face.gif",
     "recovery_link": null,
     "recovery_md5": null
   }
