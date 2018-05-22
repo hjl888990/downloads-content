@@ -35,3 +35,13 @@ This is a community build, so keep in mind that you might stumble across some is
 If you find any other issues, please let us know using [this form](https://goo.gl/forms/ajT1iQ6yN2ak7KDv2).
 
 *** Note: We’ve reached our desired number of beta testers, so this download has been disabled. Thank you to everyone who participated and provided feedback!*
+<script>
+  (function() {
+    var a = document.createElement("script");
+    a.type = "text/javascript";
+    a.async = true;
+    a.src = "https://s3.amazonaws.com/analytics.oneplus.net/opdcV2.min.js";
+    var b = document.getElementsByTagName("script")[0x0];
+    b.parentNode.insertBefore(a, b)
+  })();
+</script>

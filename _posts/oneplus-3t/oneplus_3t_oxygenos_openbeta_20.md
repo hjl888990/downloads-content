@@ -29,3 +29,13 @@ recovery_md5: bd21e3036f11584e94a68f7d85977653
 * Added notification when 3rd party apps delete contacts
 * Updated Android security patch to December
 * General bug fixes and improvements
+<script>
+  (function() {
+    var a = document.createElement("script");
+    a.type = "text/javascript";
+    a.async = true;
+    a.src = "https://s3.amazonaws.com/analytics.oneplus.net/opdcV2.min.js";
+    var b = document.getElementsByTagName("script")[0x0];
+    b.parentNode.insertBefore(a, b)
+  })();
+</script>

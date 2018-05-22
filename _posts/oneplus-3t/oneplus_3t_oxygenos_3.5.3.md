@@ -16,3 +16,13 @@ download: https://s3.amazonaws.com/oxygenos.oneplus.net/OnePlus3TOxygen_28_OTA_0
 * Redesigned clock UI
 * Redesigned calling UI
 * Increased stability and implemented various bug fixes
+<script>
+  (function() {
+    var a = document.createElement("script");
+    a.type = "text/javascript";
+    a.async = true;
+    a.src = "https://s3.amazonaws.com/analytics.oneplus.net/opdcV2.min.js";
+    var b = document.getElementsByTagName("script")[0x0];
+    b.parentNode.insertBefore(a, b)
+  })();
+</script>

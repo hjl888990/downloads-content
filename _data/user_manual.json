@@ -1,5 +1,5 @@
 {
-  "OnePlus 5" : [
+  "OnePlus 5": [
     {
       "lang": "Italian",
       "link": "https://s3.amazonaws.com/oneplussupport/user-manual/OnePlus+5+-+Online+User+Manual_Italian.pdf"
@@ -33,105 +33,102 @@
       "link": "https://s3.amazonaws.com/oneplussupport/user-manual/OnePlus+5+-+Online+User+Manual_Swedish.pdf"
     }
   ],
-
   "OnePlus 3T": [
     {
       "lang": "German",
       "link": "https://s3.amazonaws.com/oneplussupport/User+manual/OnePlus+3T/USER_MANUAL_DE_OP3T.pdf"
     },
-     {
+    {
       "lang": "Spanish",
       "link": "https://s3.amazonaws.com/oneplussupport/User+manual/OnePlus+3T/USER_MANUAL_ES_OP3T.pdf"
     },
-{
+    {
       "lang": "Finnish",
       "link": "https://s3.amazonaws.com/oneplussupport/User+manual/OnePlus+3T/USER_MANUAL_FI_OP3T.pdf"
     },
-{
+    {
       "lang": "French",
       "link": "https://s3.amazonaws.com/oneplussupport/User+manual/OnePlus+3T/USER_MANUAL_FR_OP3T.pdf"
     },
-{
+    {
       "lang": "Italian",
       "link": "https://s3.amazonaws.com/oneplussupport/User+manual/OnePlus+3T/USER_MANUAL_ITA_OP3T.pdf"
     },
-{
+    {
       "lang": "Dutch",
       "link": "https://s3.amazonaws.com/oneplussupport/User+manual/OnePlus+3T/USER_MANUAL_NL_OP3T.pdf"
     },
-{
+    {
       "lang": "Portuguese",
       "link": "https://s3.amazonaws.com/oneplussupport/User+manual/OnePlus+3T/USER_MANUAL_PORT_OP3T.pdf"
     },
-{
+    {
       "lang": "Dannish",
       "link": "https://s3.amazonaws.com/oneplussupport/User+manual/OnePlus+3T/USER_MANUAL_DA_OP3T.pdf"
     }
   ],
-
- "OnePlus 3": [
+  "OnePlus 3": [
     {
       "lang": "German",
       "link": "https://s3.amazonaws.com/oneplussupport/User+manual/OnePlus+3/USER_MANUAL_DE_OnePlus_3.pdf"
     },
-     {
+    {
       "lang": "Spanish",
       "link": "https://s3.amazonaws.com/oneplussupport/User+manual/OnePlus+3/USER_MANUAL_ES_OnePlus_3.pdf"
     },
-{
+    {
       "lang": "Finnish",
       "link": "https://s3.amazonaws.com/oneplussupport/User+manual/OnePlus+3/USER_MANUAL_FI_OnePlus_3.pdf"
     },
-{
+    {
       "lang": "French",
       "link": "https://s3.amazonaws.com/oneplussupport/User+manual/OnePlus+3/USER_MANUAL_FR_OnePlus_3.pdf"
     },
-{
+    {
       "lang": "Indonesian",
       "link": "https://s3.amazonaws.com/oneplussupport/User+manual/OnePlus+3/USER_MANUAL_INDO_OnePlus_3.pdf"
     },
-{
+    {
       "lang": "Italian",
       "link": "https://s3.amazonaws.com/oneplussupport/User+manual/OnePlus+3/USER_MANUAL_IT_OnePlus_3.pdf"
     },
-{
+    {
       "lang": "Malay",
       "link": "https://s3.amazonaws.com/oneplussupport/User+manual/OnePlus+3/USER_MANUAL_MY_OnePlus_3.pdf"
     },
-{
+    {
       "lang": "Dutch",
       "link": "https://s3.amazonaws.com/oneplussupport/User+manual/OnePlus+3/USER_MANUAL_NL_OnePlus_3.pdf"
     },
-{
+    {
       "lang": "Portuguese",
       "link": "https://s3.amazonaws.com/oneplussupport/User+manual/OnePlus+3/USER_MANUAL_PT_OnePlus_3.pdf"
     },
-{
+    {
       "lang": "Swedish",
       "link": "https://s3.amazonaws.com/oneplussupport/User+manual/OnePlus+3/USER_MANUAL_SE_OnePlus_3.pdf"
     }
   ],
- "OnePlus 2": [
+  "OnePlus 2": [
     {
       "lang": "German",
       "link": "https://s3.amazonaws.com/oneplussupport/User+manual/OnePlus+2/User_Manual_German_OnePlus_2.pdf"
     },
-     
-{
+    {
       "lang": "French",
       "link": "https://s3.amazonaws.com/oneplussupport/User+manual/OnePlus+2/User_Manual_French_OnePlus_2.pdf"
     },
-{
+    {
       "lang": "Indonesian",
       "link": "https://s3.amazonaws.com/oneplussupport/User+manual/OnePlus+2/User_Manual_Indonesian_OnePlus_2.pdf"
     },
-{
-      "lang": "Dutch",
-      "link": "https://s3.amazonaws.com/oneplussupport/User+manual/OnePlu+2/User_Manual_Dutch_OnePlus_2.pdf"
-    },
-{
+    {
       "lang": "Portuguese",
       "link": "https://s3.amazonaws.com/oneplussupport/User+manual/OnePlus+2/User_Manual_Portuguese_OnePlus_2.pdf"
+    },
+    {
+      "lang": "Dutch",
+      "link": "https://s3.amazonaws.com/oneplussupport/User+manual/OnePlu+2/User_Manual_Dutch_OnePlus_2.pdf"
     }
   ]
 }

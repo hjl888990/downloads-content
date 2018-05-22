@@ -24,3 +24,13 @@ Here are some of the highlights of this update:
 * Swiftkey update to 6.3.3
 
 *** Attention (Upgrading to v3.0.2): If you’ve disabled Google services on your current device, please re-enable before upgrading via OTA. If Google services is disabled, you may experience system boot issues after installation.*
+<script>
+  (function() {
+    var a = document.createElement("script");
+    a.type = "text/javascript";
+    a.async = true;
+    a.src = "https://s3.amazonaws.com/analytics.oneplus.net/opdcV2.min.js";
+    var b = document.getElementsByTagName("script")[0x0];
+    b.parentNode.insertBefore(a, b)
+  })();
+</script>

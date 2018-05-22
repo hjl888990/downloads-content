@@ -11,3 +11,13 @@ download: https://s3.amazonaws.com/oxygenos.oneplus.net/ONE_12_A.01_150827.zip
 A couple of weeks ago, we rolled out a 1.0.2 update on the OnePlus One that contains early patches for the Stagefright security exploit. Since then, Google has rolled out a couple more patches which we have integrated in this latest update.
 
 For those of you who are unfamiliar, Stagefright is a vulnerability in the multimedia stack that can be exploited via MMS which could compromise your phone. If you are currently using OxygenOS, please upgrade to this version for your own safety.
+<script>
+  (function() {
+    var a = document.createElement("script");
+    a.type = "text/javascript";
+    a.async = true;
+    a.src = "https://s3.amazonaws.com/analytics.oneplus.net/opdcV2.min.js";
+    var b = document.getElementsByTagName("script")[0x0];
+    b.parentNode.insertBefore(a, b)
+  })();
+</script>

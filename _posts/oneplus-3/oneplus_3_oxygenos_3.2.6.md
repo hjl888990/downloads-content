@@ -19,4 +19,13 @@ download: //s3.amazonaws.com/oxygenos.oneplus.net/OnePlus3Oxygen_16_OTA_015_all_
 * Optimized touch accuracy when playing games
 * Added DozeMode switch in Developer options
 * Added PocketMode switch in Display settings
-
+<script>
+  (function() {
+    var a = document.createElement("script");
+    a.type = "text/javascript";
+    a.async = true;
+    a.src = "https://s3.amazonaws.com/analytics.oneplus.net/opdcV2.min.js";
+    var b = document.getElementsByTagName("script")[0x0];
+    b.parentNode.insertBefore(a, b)
+  })();
+</script>

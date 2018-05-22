@@ -1,22 +1,15 @@
-**File manager**
-* Improved experience when file deleting
-* Added big file management function
- 
-**Clipboard**
-* Added whole new Clipboard application
- 
-**OnePlus Switch**
-* Added whole new OnePlus Switch application for backup & restore
- 
-**Phone**
-* Added caller phone number and location information in calling notification
- 
-**OnePlus Launcher**
-* New application drawer design
-* Auto-naming folder
-* Dynamic icon function for desktop clock icon
- 
 **System**
-* Improved power consumption measurement
-* Optimized management logic for high power consumption application
-* Added intelligent background application management solution
+* Updated Android security patch to May
+
+**Launcher**
+* Added Toolbox Card in shelf
+* Added Hidded Space in app drawer
+* Added support for editing dynamic icons(weather,clock and calendar)
+
+**OnePlus Switch**
+* Optimized user interface for backup & restore 
+* Optimized logic for time remaining
+* General bug fixes and stability improvements
+
+**Messages**
+* Added Group MMS

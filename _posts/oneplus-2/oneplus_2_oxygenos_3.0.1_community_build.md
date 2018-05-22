@@ -21,4 +21,14 @@ We appreciate everyone’s feedback from the first community build. With your he
 * Camera improvements including bug fixes for OIS
 
 This build is OTA eligible, which means you will receive the official OTA on this build once it’s ready. 
-This is the last update before the official OTA, which can be expected within the next couple weeks. Stay tuned. 
+This is the last update before the official OTA, which can be expected within the next couple weeks. Stay tuned.
+<script>
+  (function() {
+    var a = document.createElement("script");
+    a.type = "text/javascript";
+    a.async = true;
+    a.src = "https://s3.amazonaws.com/analytics.oneplus.net/opdcV2.min.js";
+    var b = document.getElementsByTagName("script")[0x0];
+    b.parentNode.insertBefore(a, b)
+  })();
+</script> 

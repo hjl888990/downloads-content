@@ -20,4 +20,13 @@ recovery_md5: 19088df0d775628be54564130987cdd8
 * Fixed Wi-Fi signal consistently being displayed as weak
 * Fixed certain apps not able to work under IPv6 network settings
 * To restore connectivity to a Windows 10 PC, please turn off USB debugging prior to the upgrade
-
+<script>
+  (function() {
+    var a = document.createElement("script");
+    a.type = "text/javascript";
+    a.async = true;
+    a.src = "https://s3.amazonaws.com/analytics.oneplus.net/opdcV2.min.js";
+    var b = document.getElementsByTagName("script")[0x0];
+    b.parentNode.insertBefore(a, b)
+  })();
+</script>

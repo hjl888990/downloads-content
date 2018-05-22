@@ -1,10 +1,15 @@
-**Release note**
-* Added face unlock function 
-* Added OnePlus Switch application for backup & restore 
-* Supported Airtel VoLTE in India
+**System**
+* Updated Android security patch to May
+
+**Launcher**
+* Added Toolbox Card in shelf
+* Added Hidded Space in app drawer
+* Added Support for editing dynamic icons(weather,clock and calendar)
+
+**OnePlus Switch**
+* Optimized user interface for backup & restore 
+* Optimized logic for time remaining
 * General bug fixes and stability improvements
 
-** Upgraded OnePlus Launcher to V2.3**
-* New application drawer design
-* Auto-naming folder
-* Dynamic icon function for desktop clock icon 
+**Messages**
+* Added Group MMS

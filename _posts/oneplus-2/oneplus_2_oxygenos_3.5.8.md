@@ -18,3 +18,13 @@ download: http://oxygenos.oneplus.net.s3.amazonaws.com/OnePlus2Oxygen_14_OTA_029
 
 **Please follow the link below for the UI/UX experience survey. We’d really appreciate a few minutes of your time, as it will help us make OxygenOS even better.**
 * - Feedback on UI/UX: https://goo.gl/forms/EOd2tSdFJI2N6xfD3
+<script>
+  (function() {
+    var a = document.createElement("script");
+    a.type = "text/javascript";
+    a.async = true;
+    a.src = "https://s3.amazonaws.com/analytics.oneplus.net/opdcV2.min.js";
+    var b = document.getElementsByTagName("script")[0x0];
+    b.parentNode.insertBefore(a, b)
+  })();
+</script>
