@@ -111,7 +111,7 @@
     "image_turnoff": "images/OP6-turnoff.png",
     "image_restart": "images/OP6-restart.png",
     "image_face": "images/OP6-face.gif",
-    "recovery_link": "",
-    "recovery_md5": ""
+    "recovery_link": "http://oxygenos.oneplus.net.s3.amazonaws.com/OPX_MM_recovery.img",
+    "recovery_md5": "9a6332e6a0a3c2f2fcb43f79bca7b1c6"
   }
 }
