@@ -1,4 +1,4 @@
-title: Coming soon  5.1.5
+title: OnePlus 6 OxygenOS 5.1.5
 date: 2018-05-24
 categories: OnePlus 6
 tags: Stable
@@ -7,7 +7,7 @@ version: 5.1.5
 md5: 6ce6648dbe58dc8827801d3c1a7f67f0
 download: http://oxygenos.oneplus.net.s3.amazonaws.com/OnePlus6Oxygen_22_OTA_009_all_1805172226_f7d1518e0e704ca3.zip
 recovery_link: 
-recovery_md5: Coming soon
+recovery_md5:
 
 ---
 **Updated Android security patch to May**
