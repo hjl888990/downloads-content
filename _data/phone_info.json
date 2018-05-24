@@ -100,7 +100,7 @@
     "recovery_link": null,
     "recovery_md5": null
   },
-"OnePlus 6": {
+  "OnePlus 6": {
     "index": 7,
     "image": "https://image01.oneplus.net/shop/201805/24/1144/0c481bde0610ea91bd6a4def7651ca5f_260_0.png",
     "image2x": "https://image01.oneplus.net/shop/201805/24/1144/0c481bde0610ea91bd6a4def7651ca5f.png",
@@ -111,7 +111,7 @@
     "image_turnoff": "images/OP6-turnoff.png",
     "image_restart": "images/OP6-restart.png",
     "image_face": "images/OP6-face.gif",
-    "recovery_link": null,
-    "recovery_md5": null
+    "recovery_link": "",
+    "recovery_md5": ""
   }
 }
