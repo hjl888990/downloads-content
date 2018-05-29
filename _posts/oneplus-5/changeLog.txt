@@ -1,15 +1,13 @@
-**System**
-* Updated Android security patch to May
-
-**Launcher**
-* Added Toolbox Card in shelf
-* Added Hidded Space in app drawer
-* Added support for editing dynamic icons(weather,clock and calendar)
-
+**System **
+* Added disable peek notifications option for Do Not Disturb(DND) preferences (Settings - Alert slider - Do not disturb)
+* Added disable peek notifications option in reading mode (Settings - Display - Reading mode)
+* Optimized PIN code confirmation process (Settings - Security & lock screen - Screen lock - PIN)
+* Optimized sleep standby power consumption (Settings - Battery - Battery optimization - Advanced optimization)
+ 
 **OnePlus Switch**
-* Optimized user interface for backup & restore 
-* Optimized logic for time remaining
-* General bug fixes and stability improvements
-
-**Messages**
-* Added Group MMS
+* UI improvements
+* Improved support for application data migration
+* General bug fixes and stability improvements 
+ 
+**File Manager**
+* Now able to manage Parallel Apps files
