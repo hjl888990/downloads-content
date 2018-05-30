@@ -1,13 +1,16 @@
-**System **
-* Added disable peek notifications option for Do Not Disturb(DND) preferences (Settings - Alert slider - Do not disturb)
-* Added disable peek notifications option in reading mode (Settings - Display - Reading mode)
-* Optimized PIN code confirmation process (Settings - Security & lock screen - Screen lock - PIN)
-* Optimized sleep standby power consumption (Settings - Battery - Battery optimization - Advanced optimization)
+**System**
+* Updated Android security patch to 2018.5
+* Fixed auto-rotation stability issue
  
-**OnePlus Switch**
-* UI improvements
-* Improved support for application data migration
-* General bug fixes and stability improvements 
+**Gallery**
+* Places: a map view of photos by location
+* Added “Recently Deleted” collection
  
-**File Manager**
-* Now able to manage Parallel Apps files
+**Wireless & Network**
+* Fixed Wi-Fi connecting issue
+ 
+**Launcher**
+* Double-tap to lock screen
+ 
+**Earphone**
+* Fixed microphone not functioning issue for AKG earphones
