@@ -1,0 +1,12 @@
+**Updated Android security patch to May**
+
+**Preloaded OnePlus Switch application**
+
+**Added configuration for notch show/hide**
+
+**Camera**
+* support super slow motion (720p@480fps and 1080p@240fps)
+* support quick capture in portrait mode
+
+**Gallery**
+* support more actions for recently deleted files**

@@ -1,15 +1,21 @@
 **System**
-* Updated Android security patch to May
+* Updated Android security patch to 2018.5
+* Supported FaceUnlock 
 
 **Launcher**
-* Added Toolbox Card in shelf
-* Added Hidded Space in app drawer
-* Added Support for editing dynamic icons(weather,clock and calendar)
-
-**OnePlus Switch**
-* Optimized user interface for backup & restore 
-* Optimized logic for time remaining
-* General bug fixes and stability improvements
-
-**Messages**
-* Added Group MMS
+* Refined Shelf UI design
+* New design for App shortcuts
+* Supported more options when long pressing an icon
+ 
+**Gallery**
+* Places: a map view of photos by location
+* Supported sharing photos to Shot-On-OnePlus
+* Added "Recently Deleted" collection
+ 
+**File Manager**
+* Added "Large files" category
+ 
+**Weather**
+* Added new widget for Launcher
+* Improved the positioning accuracy
+* Adjust refresh interval for weather information update
