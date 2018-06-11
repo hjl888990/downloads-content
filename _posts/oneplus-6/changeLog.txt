@@ -1,12 +1,17 @@
-**Updated Android security patch to May**
-
-**Preloaded OnePlus Switch application**
-
-**Added configuration for notch show/hide**
+**Network**
+* Enable Idea VoLTE service in India
+* Fixed stability issues for Dual Sim Cards
 
 **Camera**
-* support super slow motion (720p@480fps and 1080p@240fps)
-* support quick capture in portrait mode
+* Added Portrait Mode for the front camera
+* Added preview for Light Bokeh effect in Portrait Mode
+ 
+**System**
+* Now able to schedule Do Not Disturb(DND) mode
+* Supported battery percentage in status bar
+* Added Dual-4G network option in SIM & network settings
+* Improved speaker volume & sound quality
+* Optimized power consumption and Improved system stability
 
-**Gallery**
-* support more actions for recently deleted files**
+**Earphone mode**
+* Added smart answer for Bluetooth - automatically answer incoming calls when connecting Bluetooth devices
