@@ -4,13 +4,16 @@
 
 **Camera**
 * Added Portrait Mode for the front camera
-* Added preview for Light Bokeh effect in Portrait Mode
- 
+* Added preview for Light Bokeh effect in Portrait Mode of the rear camera
+
+**Phone**
+* Optimized call clarity
+
 **System**
-* Now able to schedule Do Not Disturb(DND) mode
 * Supported battery percentage in status bar
+* Improved ringtone volume and sound quality
+* Now able to schedule Do Not Disturb(DND) mode
 * Added Dual-4G network option in SIM & network settings
-* Improved speaker volume & sound quality
 * Optimized power consumption and Improved system stability
 
 **Earphone mode**
