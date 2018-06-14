@@ -1,21 +1,5 @@
 **System**
-* Updated Android security patch to 2018.5
-* Supported FaceUnlock 
+* Updated Android security patch to 2018.6
 
-**Launcher**
-* Refined Shelf UI design
-* New design for App shortcuts
-* Supported more options when long pressing an icon
- 
-**Gallery**
-* Places: a map view of photos by location
-* Supported sharing photos to Shot-On-OnePlus
-* Added "Recently Deleted" collection
- 
-**File Manager**
-* Added "Large files" category
- 
-**Weather**
-* Added new widget for Launcher
-* Improved the positioning accuracy
-* Adjust refresh interval for weather information update
+**OnePlus Switch**
+* General bug fixes and improved data transfer stability
