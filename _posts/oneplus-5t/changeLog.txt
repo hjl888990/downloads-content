@@ -1,16 +1,8 @@
 **System**
-* Updated Android security patch to 2018.5
-* Fixed auto-rotation stability issue
- 
-**Gallery**
-* Places: a map view of photos by location
-* Added “Recently Deleted” collection
- 
-**Wireless & Network**
-* Fixed Wi-Fi connecting issue
- 
-**Launcher**
-* Double-tap to lock screen
- 
-**Earphone**
-* Fixed microphone not functioning issue for AKG earphones
+* pdated Android security patch to 2018.6
+
+**OnePlus Switch**
+* eneral bug fixes and improved data transfer stability
+
+**Camera**
+* Improved photo clarity and optimized oil painting effect
