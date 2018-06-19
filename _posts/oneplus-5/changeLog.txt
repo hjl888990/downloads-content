@@ -1,8 +1,6 @@
 **System**
-* pdated Android security patch to 2018.6
+* Updated bootloader for system security enhancement
+* General bug fixes and improvements
 
-**OnePlus Switch**
-* eneral bug fixes and improved data transfer stability
-
-**Camera**
-* Improved photo clarity and optimized oil painting effect
+**Bluetooth**
+* Fixed stability issue with the Bluetooth connection for cars
