@@ -1,5 +1,10 @@
-**System**
-* Updated Android security patch to 2018.6
+**Launcher**
+* Improved search tags in app drawer
+* Added "New installs" category tag in app drawer
+* Improved app list for hidden space and toolbox
 
-**OnePlus Switch**
-* General bug fixes and improved data transfer stability
+**Camera**
+* Optimized switching between front and rear camera
+
+**Multimedia**
+* Supported seeking through timeline for AAC audio files
