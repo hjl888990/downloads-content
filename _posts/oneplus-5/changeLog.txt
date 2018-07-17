@@ -1,16 +1,4 @@
-**System**
-* Brand new user interface
-* Supported accent color「Settings - Display - Customization」
-* Supported for Project Treble
+**Camera**
 
-**Launcher**
-* Improved search tags in app drawer
-* Added "New installs" category tag in app drawer
-* Improved app list for hidden space and toolbox
-
-**Phone**
-* Optimized logic for the contacts page
-
-**Weather**
-* Brand new design with improved user experience
-* All forecasts integrated under a single interface leading to a fully immersive experience
+*Improved photo clarity and optimizations to reduce oil painting effect
+*Supported Google Lens mode

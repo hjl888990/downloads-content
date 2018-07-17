@@ -11,5 +11,5 @@ recovery_md5: afcdd73ccbadc488f7b6993a862689e5
 ---
 **Camera**
 
-*Improved photo clarity and optimizations to reduce oil painting effect
-*Supported Google Lens mode
+* Improved photo clarity and optimizations to reduce oil painting effect
+* Supported Google Lens mode
