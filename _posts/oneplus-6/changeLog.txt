@@ -1,8 +1,17 @@
-**Phone**
-* Optimized call quality
-
 **System**
-* Fixed system stability issues
-
-**Networks**
-* Improved network stability and general bug fixes
+* Updated Android security patch to 2018.7
+* Fixed issues with accidental touches triggering gestures 「Draw V」 
+* Supported Telia Finland VoLTE (Default On) and VoWifi (Default Off)
+* General bug fixes and improvements
+ 
+**Camera**
+* Improved image quality
+* Integrated Google Lens mode
+* Added beauty mode for Selfie Portrait
+ 
+**Messages**
+* Added Group MMS
+ 
+**Wireless & networks**
+* Optimized stability for Wi-Fi connection
+* Fixed stability issue with the Bluetooth connection for cars 
