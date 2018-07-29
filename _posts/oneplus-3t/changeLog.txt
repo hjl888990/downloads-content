@@ -1,10 +1,10 @@
-**Launcher**
-* Improved search tags in app drawer
-* Added "New installs" category tag in app drawer
-* Improved app list for hidden space and toolbox
+**System**
+* Updated Android security patch to 2018.7
 
 **Camera**
-* Optimized switching between front and rear camera
+* Improved image quality for the front camera
+* Fixed manual ISO setting issue of 3rd party camera apps
 
-**Multimedia**
-* Supported seeking through timeline for AAC audio files
+**Third-Party Apps**
+* Fixed parallel WhatsApp crash issue
+* Fixed front camera zoom in issues for Snapchat
