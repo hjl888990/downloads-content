@@ -1,4 +1,15 @@
-**Camera**
+**System**
+* Updated Android security patch to 2018.7
+* Added sleep standby optimization (Settings -> Battery -> Battery optimization -> Advanced optimization -> Sleep standby optimization)
 
+**Camera**
 * Improved photo clarity and optimizations to reduce oil painting effect
-* Supported Google Lens mode
+
+**Message**
+* Added Group Messaging
+
+**Gallery**
+* General bug fixes
+
+**Bluetooth**
+* Fixed ringtone issue with Android Auto
