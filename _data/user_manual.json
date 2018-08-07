@@ -1,11 +1,53 @@
 {
+  "OnePlus 6": [
+    {
+      "lang": "Italian",
+      "link": "https://s3.amazonaws.com/oneplussupport/User+manual/OnePlus+6/OnePlus+6+User+Manual+-+Italian.pdf"
+    },
+    {
+      "lang": "Danish",
+      "link": "https://s3.amazonaws.com/oneplussupport/User+manual/OnePlus+6/OnePlus+6+User+Manual+-+Danish.pdf"
+    },
+    {
+      "lang": "Dutch",
+      "link": "https://s3.amazonaws.com/oneplussupport/User+manual/OnePlus+6/OnePlus+6+User+Manual+-+Dutch.pdf"
+    },
+    {
+      "lang": "French",
+      "link": "https://s3.amazonaws.com/oneplussupport/User+manual/OnePlus+6/OnePlus+6+User+Manual+-+French.pdf"
+    },
+    {
+      "lang": "Finnish",
+      "link": "https://s3.amazonaws.com/oneplussupport/User+manual/OnePlus+6/OnePlus+6+User+Manual+-+Finnish.pdf"
+    },
+    {
+      "lang": "German",
+      "link": "https://s3.amazonaws.com/oneplussupport/User+manual/OnePlus+6/OnePlus+6+User+Manual+-+German.pdf"
+    },
+    {
+      "lang": "Spanish",
+      "link": "https://s3.amazonaws.com/oneplussupport/User+manual/OnePlus+6/OnePlus+6+User+Manual+-+Spanish.pdf"
+    },
+    {
+      "lang": "Swedish",
+      "link": "https://s3.amazonaws.com/oneplussupport/User+manual/OnePlus+6/OnePlus+6+User+Manual+-+Swedish.pdf"
+    },
+    {
+      "lang": "Latvian",
+      "link": "https://s3.amazonaws.com/oneplussupport/User+manual/OnePlus+6/OnePlus+6+User+Manual+-+Latvian.pdf"
+    },
+    {
+      "lang": "Lithuanian",
+      "link": "https://s3.amazonaws.com/oneplussupport/User+manual/OnePlus+6/OnePlus+6+User+Manual+-+Lithuanian.pdf"
+    }
+  ],
   "OnePlus 5": [
     {
       "lang": "Italian",
       "link": "https://s3.amazonaws.com/oneplussupport/user-manual/OnePlus+5+-+Online+User+Manual_Italian.pdf"
     },
     {
-      "lang": "Dannish",
+      "lang": "Danish",
       "link": "https://s3.amazonaws.com/oneplussupport/user-manual/OnePlus+5+-+Online+User+Manual_Danish.pdf"
     },
     {
