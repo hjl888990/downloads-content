@@ -1,16 +1,6 @@
+**Community**
+* New Feedback Tool integrated into community app
+
 **System**
-* Updated Android security patch to 2018.5
-* Fixed auto-rotation stability issue
- 
-**Gallery**
-* Places: a map view of photos by location
-* Added “Recently Deleted” collection
- 
-**Wireless & Network**
-* Fixed Wi-Fi connecting issue
- 
-**Launcher**
-* Double-tap to lock screen
- 
-**Earphone**
-* Fixed microphone not functioning issue for AKG earphones
+* Optimization for the pocket mode to reduce accidental touches
+* Updated Android security patch to 2018.7
