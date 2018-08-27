@@ -1,6 +1,4 @@
-**Calendar**
-* Fixed calendar widget compatibility issue in shelf
-* Fixed issue with keyboard not popping up when creating a new schedule
+**System**
 
-**OnePlus Switch**
-* Optimized application and data classification list
+* Updated Android security patch to 2018.8
+* Confirm PIN without tapping √ to unlock phone (Settings -> Security & lock screen -> Screen lock -> PIN)
