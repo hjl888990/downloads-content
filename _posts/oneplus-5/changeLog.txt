@@ -1,4 +1,32 @@
 **System**
 
 * Updated Android security patch to 2018.8
-* Confirm PIN without tapping √ to unlock phone (Settings -> Security & lock screen -> Screen lock -> PIN)
+* Optimized background power consumption control
+* Added Toast message source for Toast messages sent by background apps
+* Added description about sleep standby optimization when the function is turned on for the first time
+* Fixed call recording issue in India
+ 
+**Camera**
+
+* Added portrait mode for front camera
+ 
+**Gaming mode 3.0**
+
+* Added text notification mode
+* Added call suspension notification
+* UI and interaction optimization
+ 
+**Weather**
+
+* Hourly weather forecast  
+* 8 units of meteorological data including precipitation probability and percieved temperature 
+* Improved weather data accuracy
+ 
+**Note**
+
+* New UI 
+* Optimized process for sharing notes as an image
+ 
+**OnePlus Switch**
+
+* UI optimization
