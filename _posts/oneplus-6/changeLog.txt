@@ -1,11 +1,18 @@
-**System**
+**Updated system to Android 9.0 Pie**
 
-* Optimized network connection
-* Optimized stability for Wi-Fi connection
-* Fixed screen flickering issue in daylight 
-* General bug fixes and improvements
-* Confirm pin without tapping √ 「Setting -> Security & lock -> PIN」
+* Brand new UI for Android P
+* New Android P gesture navigation
+* Other new features and system improvements
 
-**Camera**
+**Integrated OnePlus customization features**
 
-* Improved HDR mode
+* Supported accent color customization
+* New Do Not Disturb mode with adjustable settings
+* New Gaming mode 3.0
+* Added text notification mode
+* Added notification for 3rd party calls
+
+**Known Issues**
+
+* Some applications may not function as expected when running on this beta version
+* Google Pay service doesn't work

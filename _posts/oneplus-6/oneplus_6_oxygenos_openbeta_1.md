@@ -27,3 +27,6 @@ recovery_md5:
 
 * Some applications may not function as expected when running on this beta version
 * Google Pay service doesn't work
+
+**Downgrade version**
+https://oxygenos.oneplus.net.s3.amazonaws.com/OnePlus6Oxygen_22_OTA_015_all_1808102118_downgrade_68586451f7334c4d.zip
