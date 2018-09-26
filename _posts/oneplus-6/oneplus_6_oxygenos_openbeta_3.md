@@ -1,5 +1,5 @@
 title: OnePlus 6 OxygenOS Open Beta 3
-date: 2018-09-15
+date: 2018-09-27
 categories: OnePlus 6
 tags: Beta
 file_size: 1.49 GB
@@ -10,22 +10,18 @@ recovery_link:
 recovery_md5: 
 ---
 **System**
-
-* Fixed stability issues with ambient display
+* Fixed stability issues with ambient display 
 * Improved stability for face unlock and fingerprint scanner
 * Added support to launch google assistant or other third party assistant app by holding power button for 0.5 seconds
 
 **Parallel Apps**
-
 * Added support for more apps (Telegram, Discord, IMO Uber, OLA)  in parallel APPS
 
 **OnePlus Switch v2.1.0**
-
-* Added manual connection method if unable to connect switch with QR code on the old device
+* Added manual connection method if unable to connect switch with QR code on the old device 
 * Supported backup and recovery for application data including home screen, lock screen and APP layout
 * Bug fixes and support for more Android models
 
 **Known Issue**
-
 * Some applications may not function as expected when running on this beta version
 * Google Pay service is not working
