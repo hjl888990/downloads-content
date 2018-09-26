@@ -1,18 +1,16 @@
-**Updated system to Android™ 9.0 Pie™**
+**System**
+* Fixed stability issues with ambient display 
+* Improved stability for face unlock and fingerprint scanner
+* Added support to launch google assistant or other third party assistant app by holding power button for 0.5 seconds
 
-* Brand new UI for Android P
-* New Android P gesture navigation
-* Other new features and system improvements
+**Parallel Apps**
+* Added support for more apps (Telegram, Discord, IMO Uber, OLA)  in parallel APPS
 
-**Do Not Disturb mode**
+**OnePlus Switch v2.1.0**
+* Added manual connection method if unable to connect switch with QR code on the old device 
+* Supported backup and recovery for application data including home screen, lock screen and APP layout
+* Bug fixes and support for more Android models
 
-* New Do Not Disturb(DND) mode with adjustable settings
-
-**New Gaming mode 3.0**
-
-* Added text notification mode
-* Added notification for 3rd party calls
-
-**Accent color**
-
-* Supported accent color customization
+**Known Issue**
+* Some applications may not function as expected when running on this beta version
+* Google Pay service is not working
