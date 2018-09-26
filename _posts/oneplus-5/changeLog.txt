@@ -1,16 +1,13 @@
-**Cloud Sync**
+**System**
 
-* Added find my phone function
-
-**Camera**
-
-* Fixed beauty mode (now applies to photos from the rear camera)
-* Improved stability of portrait mode for the front camera
+* Updated Android security patch to 2018.9
 
 **Weather**
 
-* Improved stability of the Weather app
+* Optimized UI for the Weather App
 
-**System**
+**OnePlus Switch**
 
-* General bug fixes and improvements
+* Added manual connection method if unable to connect switch with QR code on the old device
+* Supported backup and recovery for application data including home screen, lock screen and APP layout
+* Bug fixes and support for more Android models
