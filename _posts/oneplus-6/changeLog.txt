@@ -1,18 +1,18 @@
-**System**
+**Updated system to Android™ 9.0 Pie™**
 
-* Improved stability for Wi-Fi connection
-* Optimized background power consumption control
-* Optimization for the pocket mode to reduce accidental touches
+* Brand new UI for Android P
+* New Android P gesture navigation
+* Other new features and system improvements
 
-**Launcher**
+**Do Not Disturb mode**
 
-* Optimized multitasking UI
+* New Do Not Disturb(DND) mode with adjustable settings
 
-**Camera**
+**New Gaming mode 3.0**
 
-* Optimized image quality for front camera
+* Added text notification mode
+* Added notification for 3rd party calls
 
-**Known Issue**
+**Accent color**
 
-* Some applications may not function as expected when running on this beta version
-* Google Pay service is not working
+* Supported accent color customization
