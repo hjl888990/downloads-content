@@ -1,16 +1,17 @@
 **System**
-* Fixed stability issues with ambient display 
-* Improved stability for face unlock and fingerprint scanner
-* Added support to launch google assistant or other third party assistant app by holding power button for 0.5 seconds
 
-**Parallel Apps**
-* Added support for more apps (Telegram, Discord, IMO Uber, OLA)  in parallel APPS
+* Fixed touch latency issue
+* Optimized standby power consumption
 
-**OnePlus Switch v2.1.0**
-* Added manual connection method if unable to connect switch with QR code on the old device 
-* Supported backup and recovery for application data including home screen, lock screen and APP layout
-* Bug fixes and support for more Android models
+**Communication**
 
-**Known Issue**
-* Some applications may not function as expected when running on this beta version
-* Google Pay service is not working
+* Optimized UI for speed dial and calling interface
+* Fixed issue of accidentally answering the second call while using answer calls by gesture
+
+**Community**
+
+* Community notices added as a feature
+* New feed for following community members
+* Stickied comments displayed on the app
+* Added more options to share threads
+* General user interface tweaks and bug fixes
