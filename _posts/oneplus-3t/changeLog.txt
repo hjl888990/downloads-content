@@ -1,3 +1,4 @@
 **System**
 
+* Updated Android security patch to 2018.9
 * General bug fixes and improvements
