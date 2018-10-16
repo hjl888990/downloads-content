@@ -1,13 +1,11 @@
-**System**
+**Gallery**
 
-* Updated Android security patch to 2018.9
+* Supported new gesture to close picture by sliding down in gallery app
 
-**Weather**
+**Community**
 
-* Optimized UI for the Weather App
-
-**OnePlus Switch**
-
-* Added manual connection method if unable to connect switch with QR code on the old device
-* Supported backup and recovery for application data including home screen, lock screen and APP layout
-* Bug fixes and support for more Android models
+* Community notices added as a feature
+* New feed for following community members
+* Stickied comments displayed on the app
+* Added more options to share threads
+* General user interface tweaks and bug fixes
