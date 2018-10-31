@@ -1,7 +1,20 @@
 **System**
 
-* Updated Android security patch to 2018.10
-* Improved UI for power off menu
+* New navigation gestures
+* Improved UI for About phone
+* Updated Android security patch to 2018.11
+* Improvements for taking screenshot experience
 
-**Screenshot**
-* Improved UI for screenshot interface
+**Launcher**
+
+* New Google quick search bar
+
+**Camera**
+
+* Added nightscape mode
+
+**Gallery**
+
+* Improved zoom in/out overall experience
+* Supported more photos shown in your PHOTO tab
+* Supported swipe-down gesture to go back to timeline when viewing your photo
