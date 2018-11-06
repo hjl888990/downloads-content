@@ -1,0 +1,13 @@
+=== HTTP URL ===
+URL (FILE): http://oxygenos.oneplus.net.s3.amazonaws.com/OnePlus6TOxygen_34_OTA_011_all_1811032137_14525ea87508488a.zip
+URL (MD5): http://oxygenos.oneplus.net.s3.amazonaws.com/OnePlus6TOxygen_34_OTA_011_all_1811032137_14525ea87508488a.zip.md5
+
+=== HTTPS URL ===
+URL (FILE): https://oxygenos.oneplus.net.s3.amazonaws.com/OnePlus6TOxygen_34_OTA_011_all_1811032137_14525ea87508488a.zip
+URL (MD5): https://oxygenos.oneplus.net.s3.amazonaws.com/OnePlus6TOxygen_34_OTA_011_all_1811032137_14525ea87508488a.zip.md5
+
+[Public] Anyone can read the file.
+
+===================================================================
+file size: 1,761,579,763 Bytes (1.64GB)
+MD5 file content: ef55812889846f16e0ff7efee13f413a  OnePlus6TOxygen_34_OTA_011_all_1811032137_14525ea87508488a.zip
