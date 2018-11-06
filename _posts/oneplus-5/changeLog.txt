@@ -1,11 +1,4 @@
-**Gallery**
+**System**
 
-* Supported new gesture to close picture by sliding down in gallery app
-
-**Community**
-
-* Community notices added as a feature
-* New feed for following community members
-* Stickied comments displayed on the app
-* Added more options to share threads
-* General user interface tweaks and bug fixes
+* Updated Android security patch to 2018.10
+* General bug fixes and improvements
