@@ -12,7 +12,6 @@ recovery_md5:
 ---
 **System**
 
-<<<<<<< HEAD
 * Brand new navigation gestures
 * Improved UI for About phone
 * Optimized standby power consumption
@@ -24,23 +23,3 @@ recovery_md5:
 
 * Added Nightscape
 * Added Studio Lighting to enhance face contour
-=======
-* New navigation gestures
-* Improved UI for About phone
-* Updated Android security patch to 2018.11
-* Improvements for taking screenshot experience
-
-**Launcher**
-
-* New Google quick search bar
-
-**Camera**
-
-* Added nightscape mode
-
-**Gallery**
-
-* Improved zoom in/out overall experience
-* Supported more photos shown in your PHOTO tab
-* Supported swipe-down gesture to go back to timeline when viewing your photo
->>>>>>> 5cf51e31264e2d4dc69925d5d0934c9c225a97f3
