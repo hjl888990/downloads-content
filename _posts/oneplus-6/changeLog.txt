@@ -1,34 +1,13 @@
-**System**
+System
+-Added Video enhancer feature
+-Added OnePlus Roaming 
 
-<<<<<<< HEAD
-* Brand new navigation gestures
-* Improved UI for About phone
-* Optimized standby power consumption
-* Updated Android security patch to 2018.11
-* Added support to launch Google Assistant or other third party assistant app by holding power button for 0.5 seconds
-* General bug fixes and improvements
- 
-**Camera**
+Communication
+-Added vibration when hanging up
+-UI Improvements for emergency rescue
+-Now able to assign a specific SIM for a specific contact or group of contacts when using dual SIM
 
-* Added Nightscape
-* Added Studio Lighting to enhance face contour
-=======
-* New navigation gestures
-* Improved UI for About phone
-* Updated Android security patch to 2018.11
-* Improvements for taking screenshot experience
-
-**Launcher**
-
-* New Google quick search bar
-
-**Camera**
-
-* Added nightscape mode
-
-**Gallery**
-
-* Improved zoom in/out overall experience
-* Supported more photos shown in your PHOTO tab
-* Supported swipe-down gesture to go back to timeline when viewing your photo
->>>>>>> 5cf51e31264e2d4dc69925d5d0934c9c225a97f3
+Launcher
+-Added User Agreement and Privacy Policy
+-App drawer options under launcher settings
+-General bug fixes and performance improvements
