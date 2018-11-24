@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 **System**
 
 <<<<<<< HEAD
@@ -32,3 +33,18 @@
 * Supported more photos shown in your PHOTO tab
 * Supported swipe-down gesture to go back to timeline when viewing your photo
 >>>>>>> 5cf51e31264e2d4dc69925d5d0934c9c225a97f3
+=======
+System
+-Added Video enhancer feature
+-Added OnePlus Roaming 
+
+Communication
+-Added vibration when hanging up
+-UI Improvements for emergency rescue
+-Now able to assign a specific SIM for a specific contact or group of contacts when using dual SIM
+
+Launcher
+-Added User Agreement and Privacy Policy
+-App drawer options under launcher settings
+-General bug fixes and performance improvements
+>>>>>>> b1881f494a4e6884ca3ca80dcc9bee440baa17da

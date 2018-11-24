@@ -1,4 +1,8 @@
-**System**
+Hot fix
+-Fixed stability issue with Bluetooth for cars
 
-* Updated Android security patch to 2018.10
-* General bug fixes and improvements
+System
+-Supported for Project Treble
+-Supported IDEA India VoLTE(Default On)
+-Improved Bluetooth stability for phone calls
+-Updated Android security patch to 2018.10
