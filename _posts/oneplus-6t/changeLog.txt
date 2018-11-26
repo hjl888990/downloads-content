@@ -1,3 +1,13 @@
 System
--Improvements for Screen Unlock
+-Improved unlocking experience
+-Optimized standby power consumption
 -General bug fixes and improvements
+
+Communication
+-Fixed issues with adding APN on Verizon network
+
+Third-Party Apps
+-Fixed issues with no notifications from play store
+
+Camera
+-Optimized image processing
