@@ -1,13 +1,9 @@
 System
--Improved unlocking experience
+-Improved Bluetooth stability for better connectivity
+-Optimized stability for Wi-Fi connection
 -Optimized standby power consumption
+-Fixed display issues for lock screen wallpaper
 -General bug fixes and improvements
 
-Communication
--Fixed issues with adding APN on Verizon network
-
-Third-Party Apps
--Fixed issues with no notifications from play store
-
 Camera
--Optimized image processing
+-Improved slow motion performance
