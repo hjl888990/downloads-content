@@ -1,3 +1,14 @@
+title: OnePlus 5 OxygenOS Open Beta 22
+date: 2018-12-12
+categories: OnePlus 5
+tags: Beta
+file_size: 1.74 GB
+version: Open Beta 22
+md5: 0139109fca66fde80d850ac56883bb8a
+download: http://oxygenos.oneplus.net.s3.amazonaws.com/OnePlus5Oxygen_23_OTA_026_all_1812052331_aaeff7f608dc4a21.zip
+recovery_link: https://oxygenos.oneplus.net.s3.amazonaws.com/recovery.img
+recovery_md5: afcdd73ccbadc488f7b6993a862689e5
+---
 System
 -Updated system to Android™ 9.0 Pie™
 -Brand new UI for Android Pie
