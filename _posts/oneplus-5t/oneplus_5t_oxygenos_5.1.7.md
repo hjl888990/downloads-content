@@ -1,5 +1,5 @@
 title: OnePlus 5T OxygenOS 5.1.7
-date: 2018-11-13
+date: 2018-12-13
 categories: OnePlus 5T
 tags: Stable
 file_size: 1.58 GB
@@ -10,11 +10,8 @@ recovery_link: https://oxygenos.oneplus.net.s3.amazonaws.com/recovery.img
 recovery_md5: d4e630135f0a1eb6dd4db6c8124474eb
 
 ---
-Hot fix
--Fixed stability issue with Bluetooth for cars
-
 System
--Supported for Project Treble
--Supported IDEA India VoLTE(Default On)
+-Supported for Project Treble 
+-Supported IDEA India VoLTE (Default On) 
 -Improved Bluetooth stability for phone calls
 -Updated Android security patch to 2018.10
