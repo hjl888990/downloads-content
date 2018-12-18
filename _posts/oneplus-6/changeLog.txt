@@ -1,12 +1,10 @@
 System
--Audio tuner for Type-C and Bluetooth earphones
--About Phone UI improvements
+-Updated Android security patch to 2018.12
+-Added toast message when parallel apps are unavailable due to data corruption
 
-Communication
--Improved UI for Call History
+Phone
+-Added call history for incoming calls from unknown numbers
+-Optimized UI for Spam messages and calls
 
-Launcher
--Supported dark theme for Dashboard in Shelf
-
-Camera
--Improved slow motion
+OnePlus Switch
+-Now supports migrating data from iPhone
