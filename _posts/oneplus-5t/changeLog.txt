@@ -1,11 +1,3 @@
 System
--Updated Android security patch to 2018.12
--Fixed issues with custom accent color not getting applied every second try
--Optimizations for Face Unlock
-
-Launcher
--Fixed UI issues with scroller in app drawer
--Improved color adaptation for navigation bar
-
-Third-party App
--Fixed issue with Netflix crashing randomly
+-Fixed random audio tuner crashes
+-General bug fixes and system stability improvements
