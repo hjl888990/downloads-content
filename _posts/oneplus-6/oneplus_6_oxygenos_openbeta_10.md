@@ -1,3 +1,14 @@
+title: OnePlus 6 OxygenOS Open Beta 10
+date: 2018-12-28
+categories: OnePlus 6
+tags: Beta
+file_size: 1.51 GB
+version: Open Beta 10
+md5: d173cd26a94872fc402feb150d5066dd
+download: http://oxygenos.oneplus.net.s3.amazonaws.com/OnePlus6Oxygen_22_OTA_022_all_1812271744_cd0cbdcb269b432d.zip
+recovery_link:
+recovery_md5: 
+---
 System
 -Improvements for screen brightness control
 -Confirm pin without tapping √ for app locker
