@@ -1,13 +1,13 @@
 === HTTP URL ===
-URL (FILE): http://oxygenos.oneplus.net.s3.amazonaws.com/OnePlus6Oxygen_22_OTA_022_all_1812271744_cd0cbdcb269b432d.zip
-URL (MD5): http://oxygenos.oneplus.net.s3.amazonaws.com/OnePlus6Oxygen_22_OTA_022_all_1812271744_cd0cbdcb269b432d.zip.md5
+URL (FILE): http://oxygenos.oneplus.net.s3.amazonaws.com/OnePlus6Oxygen_22_OTA_028_all_1812250155_67229df34c11443b.zip
+URL (MD5): http://oxygenos.oneplus.net.s3.amazonaws.com/OnePlus6Oxygen_22_OTA_028_all_1812250155_67229df34c11443b.zip.md5
 
 === HTTPS URL ===
-URL (FILE): https://oxygenos.oneplus.net.s3.amazonaws.com/OnePlus6Oxygen_22_OTA_022_all_1812271744_cd0cbdcb269b432d.zip
-URL (MD5): https://oxygenos.oneplus.net.s3.amazonaws.com/OnePlus6Oxygen_22_OTA_022_all_1812271744_cd0cbdcb269b432d.zip.md5
+URL (FILE): https://oxygenos.oneplus.net.s3.amazonaws.com/OnePlus6Oxygen_22_OTA_028_all_1812250155_67229df34c11443b.zip
+URL (MD5): https://oxygenos.oneplus.net.s3.amazonaws.com/OnePlus6Oxygen_22_OTA_028_all_1812250155_67229df34c11443b.zip.md5
 
 [Public] Anyone can read the file.
 
 ===================================================================
-file size: 1,625,145,058 Bytes (1.51GB)
-MD5 file content: d173cd26a94872fc402feb150d5066dd  OnePlus6Oxygen_22_OTA_022_all_1812271744_cd0cbdcb269b432d.zip
+file size: 1,614,835,272 Bytes (1.50GB)
+MD5 file content: 0ea5198479f842f369946c6787871107  OnePlus6Oxygen_22_OTA_028_all_1812250155_67229df34c11443b.zip
