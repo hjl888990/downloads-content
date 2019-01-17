@@ -1,9 +1,12 @@
 System
--Improved Bluetooth stability for better connectivity
--Optimized stability for Wi-Fi connection
--Optimized standby power consumption
--Fixed display issues for lock screen wallpaper
--General bug fixes and improvements
+-Updated Android security patch to 2019.1
 
-Camera
--Improved slow motion performance
+Phone
+-Messages now support landscape mode
+-Deep integration with Google Duo
+
+Weather
+-Added more search options to improve the accuracy of search results
+-Weather descriptions more accurate
+-Added more unit options for precipitation, visibility, pressure and other data
+-Added more detailed descriptions to weather icons

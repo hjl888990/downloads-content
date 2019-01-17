@@ -1,13 +1,13 @@
-title: OnePlus 5T OxygenOS Open Beta 20
+title: OnePlus 5 OxygenOS Open Beta 23
 date: 2018-12-19
-categories: OnePlus 5T
+categories: OnePlus 5
 tags: Beta
-file_size: 1.71 GB
-version: Open Beta 20
-md5: 39b303f5a241d6af0d22e95f84004c77
-download: http://oxygenos.oneplus.net.s3.amazonaws.com/OnePlus5TOxygen_43_OTA_027_all_1812181341_40e91c1f19ec4bfb.zip
+file_size: 1.70 GB
+version: Open Beta 23
+md5: 0aefad6c83c1d933f1aa701a6124af38
+download: http://oxygenos.oneplus.net.s3.amazonaws.com/OnePlus5Oxygen_23_OTA_027_all_1812181342_6e6ea73f3b514e54.zip
 recovery_link: https://oxygenos.oneplus.net.s3.amazonaws.com/recovery.img
-recovery_md5: 738c9e4a2de1c69932073aa0965f60de
+recovery_md5: afcdd73ccbadc488f7b6993a862689e5
 ---
 System
 -Updated Android security patch to 2018.12

@@ -1,13 +1,14 @@
-title: OnePlus 6 OxygenOS Open Beta 9
-date: 2018-12-29
-categories: OnePlus 6
+title: OnePlus 6t OxygenOS Open Beta 2
+date: 2018-12-28
+categories: OnePlus 6T
 tags: Beta
-file_size: 1.51 GB
-version: Open Beta 9
-md5: d173cd26a94872fc402feb150d5066dd
-download: http://oxygenos.oneplus.net.s3.amazonaws.com/OnePlus6Oxygen_22_OTA_022_all_1812271744_cd0cbdcb269b432d.zip
-recovery_link:
-recovery_md5: 
+file_size: 1.63 GB
+version: Open Beta 2
+md5: 88bbdd060cb67475c60ffe5c22972ab8
+download: http://oxygenos.oneplus.net.s3.amazonaws.com/OnePlus6TOxygen_41_OTA_022_all_1812271744_1d6ce96b1598436e.zip
+recovery_link: 
+recovery_md5:
+
 ---
 System
 -Improvements for screen brightness control

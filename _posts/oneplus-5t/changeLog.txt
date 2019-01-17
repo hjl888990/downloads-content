@@ -1,5 +1,27 @@
 System
--Supported for Project Treble 
--Supported IDEA India VoLTE (Default On) 
--Improved Bluetooth stability for phone calls
--Updated Android security patch to 2018.10
+-Updated Android security patch to 2019.01
+-Improvements for screen brightness control
+-Confirm pin without tapping √ for app locker
+-Improved color adaptation for navigation bar when using third-party apps
+
+Gallery
+-Added create collection, copy and move photos features
+-New illustrations and design on blank pages
+-General Bug fixes and overall experience improvements
+
+Launcher
+-Added recommended tools in toolbox
+-Improved UI for category tags in app drawer
+
+Phone
+-Added call history for incoming calls from unknown numbers
+-Improved UI for Call History
+
+Weather
+-Added more search options to improve the accuracy of search results
+-Weather descriptions more accurate
+-Added more unit options for precipitation, visibility, pressure and other data
+-Added more detailed descriptions to weather icons
+
+OnePlus Switch
+-Now supports migrating data from iPhone

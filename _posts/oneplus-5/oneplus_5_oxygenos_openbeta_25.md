@@ -1,3 +1,14 @@
+title: OnePlus 5 OxygenOS Open Beta 25
+date: 2019-01-16
+categories: OnePlus 5
+tags: Beta
+file_size: 1.71 GB
+version: Open Beta 25
+md5: 306431c3c5278f2d2145f3d24853f082
+download: http://oxygenos.oneplus.net.s3.amazonaws.com/OnePlus5Oxygen_23_OTA_034_all_1901140035_0754c7ee1eab4f31.zip
+recovery_link: https://oxygenos.oneplus.net.s3.amazonaws.com/recovery.img
+recovery_md5: afcdd73ccbadc488f7b6993a862689e5
+---
 System
 -Updated Android security patch to 2019.01
 -Improvements for screen brightness control
