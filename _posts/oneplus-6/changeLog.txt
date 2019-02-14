@@ -1,12 +1,8 @@
 System
--Updated Android security patch to 2019.1
+-Added OnePlus Laboratory(Only for OnePlus6)
+-Gaming mode enhancement
+-Optimizations for screenshot
+-Supported quick reply in landscape mode, so that it's easier to reply to new messages when watching videos
 
-Phone
--Messages now support landscape mode
--Deep integration with Google Duo
-
-Weather
--Added more search options to improve the accuracy of search results
--Weather descriptions more accurate
--Added more unit options for precipitation, visibility, pressure and other data
--Added more detailed descriptions to weather icons
+Clock
+-Now supports world clock with weather information
