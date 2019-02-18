@@ -1,8 +1,4 @@
 System
--Added OnePlus Laboratory(Only for OnePlus6)
--Gaming mode enhancement
--Optimizations for screenshot
--Supported quick reply in landscape mode, so that it's easier to reply to new messages when watching videos
-
-Clock
--Now supports world clock with weather information
+-Updated Android security patch to 2019.1
+-Deep integration with Google Duo
+-General bug fixes and system improvements
