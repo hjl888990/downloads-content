@@ -1,10 +1,6 @@
 System
-
--Improved screenshot for a better experience
-
--Added quick reply in landscape mode, so that it's easier to reply to new messages when watching videos
-
+-Updated Android security patch to 2019.02
 -Gaming mode enhancement
 
--Improved stability for system upgrade
-
+OnePlus Clock
+-Added weather information to the clock widget
