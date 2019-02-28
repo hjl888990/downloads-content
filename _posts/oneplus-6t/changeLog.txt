@@ -1,5 +1,8 @@
 System
--Updated Android security patch to 2019.1
--Optimizations for screen display 
--Deep integration with Google Duo
--General bug fixes and system improvements
+-General bug fixes and improvements
+
+Clock
+-Fixed laggy while setting alarm
+
+Phone
+-Improved stability for video calls
