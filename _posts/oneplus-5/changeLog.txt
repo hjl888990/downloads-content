@@ -1,9 +1,10 @@
 System
--Updated Android security patch to 2019.03
--New animation for flight mode
--Optimized notifications for quick settings
--Optimized battery consumption
+-Updated Android security patch to 2019.1
+-Improved stability for system upgrade
+-General bug fixes and system improvements
 
-Messages
--Now able to select contact groups for sending SMS
+Phone
+-Deep integration with Google Duo
 
+Networks
+-Improved network stability
