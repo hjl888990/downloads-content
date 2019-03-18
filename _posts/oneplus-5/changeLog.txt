@@ -1,6 +1,9 @@
 System
--Updated Android security patch to 2019.02
--Gaming mode enhancement
+-Updated Android security patch to 2019.03
+-New animation for flight mode
+-Optimized notifications for quick settings
+-Optimized battery consumption
 
-OnePlus Clock
--Added weather information to the clock widget
+Messages
+-Now able to select contact groups for sending SMS
+
