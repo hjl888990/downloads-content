@@ -1,13 +1,13 @@
 === HTTP URL ===
-URL (FILE): http://oxygenos.oneplus.net.s3.amazonaws.com/OnePlus6TOxygen_41_OTA_028_all_1902251820_5a90a12ed47b4b35.zip
-URL (MD5): http://oxygenos.oneplus.net.s3.amazonaws.com/OnePlus6TOxygen_41_OTA_028_all_1902251820_5a90a12ed47b4b35.zip.md5
+URL (FILE): http://oxygenos.oneplus.net.s3.amazonaws.com/OnePlus6THydrogen_41_OTA_030_all_1903092020_0941395aaf604120.zip
+URL (MD5): http://oxygenos.oneplus.net.s3.amazonaws.com/OnePlus6THydrogen_41_OTA_030_all_1903092020_0941395aaf604120.zip.md5
 
 === HTTPS URL ===
-URL (FILE): https://oxygenos.oneplus.net.s3.amazonaws.com/OnePlus6TOxygen_41_OTA_028_all_1902251820_5a90a12ed47b4b35.zip
-URL (MD5): https://oxygenos.oneplus.net.s3.amazonaws.com/OnePlus6TOxygen_41_OTA_028_all_1902251820_5a90a12ed47b4b35.zip.md5
+URL (FILE): https://oxygenos.oneplus.net.s3.amazonaws.com/OnePlus6THydrogen_41_OTA_030_all_1903092020_0941395aaf604120.zip
+URL (MD5): https://oxygenos.oneplus.net.s3.amazonaws.com/OnePlus6THydrogen_41_OTA_030_all_1903092020_0941395aaf604120.zip.md5
 
 [Public] Anyone can read the file.
 
 ===================================================================
-file size: 1,752,195,107 Bytes (1.63GB)
-MD5 file content: 9db7daef64c5a78d3bc9cec5b4cb0a38  OnePlus6TOxygen_41_OTA_028_all_1902251820_5a90a12ed47b4b35.zip
+file size: 2,144,538,731 Bytes (2.00GB)
+MD5 file content: 05767f974f4d473ab7917074ba422236  OnePlus6THydrogen_41_OTA_030_all_1903092020_0941395aaf604120.zip

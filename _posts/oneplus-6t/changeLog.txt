@@ -1,8 +1,7 @@
 System
--General bug fixes and improvements
+-Updated Android security patch to 2019.03
+-Improved lock screen interface
+-Improved sensitivity for screen rotation
 
-Clock
--Fixed laggy while setting alarm
-
-Phone
--Improved stability for video calls
+Messages
+-Now able to select contact groups for sending SMS
