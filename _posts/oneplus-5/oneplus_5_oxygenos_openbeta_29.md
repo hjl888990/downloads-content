@@ -6,8 +6,6 @@ file_size: 1.75 GB
 version: Open Beta 29
 md5: c80fdd5bf4a08d0081b8dad87e37f551
 download: http://oxygenos.oneplus.net.s3.amazonaws.com/OnePlus5Oxygen_23_OTA_042_all_1903242146_bf3d9382ec594b02.zip
-recovery_link: https://oxygenos.oneplus.net.s3.amazonaws.com/recovery.img
-recovery_md5: afcdd73ccbadc488f7b6993a862689e5
 ---
 System
 -Screenshot UI optimizations
