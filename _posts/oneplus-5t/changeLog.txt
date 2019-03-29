@@ -1,10 +1,16 @@
 System
--Updated Android security patch to 2019.1
--Improved stability for system upgrade
--General bug fixes and system improvements
+-Screenshot UI optimizations
+
+Launcher
+-Improved color adaptation for cards in shelf
+
+OnePlus Switch
+-Supported permissions migration for applications
+
+Weather
+-More details added to weather warnings
+-Weather timeline now follows system time format
+-General bug fixes
 
 Phone
--Deep integration with Google Duo
-
-Networks
--Improved network stability
+-UI optimizations
