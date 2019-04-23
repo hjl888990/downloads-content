@@ -1,11 +1,11 @@
 title: OnePlus 6 OxygenOS Open Beta 16
-date: 2019-04-19
+date: 2019-04-23
 categories: OnePlus 6
 tags: Beta
-file_size: 1.55 GB
+file_size: 1.59 GB
 version: Open Beta 16
-md5: 5df9b7e12fbb6d71ef524d83142ed5bc
-download: http://oxygenos.oneplus.net.s3.amazonaws.com/OnePlus6Oxygen_22_OTA_032_all_1903251449_a1d4152c082a4ef4.zip
+md5: 95c7dffff9eca1fe3ced3099b6a0d569
+download: http://oxygenos.oneplus.net/OnePlus6Oxygen_22_OTA_034_all_1904111015_c5e0d26395564f87.zip
 recovery_link:
 recovery_md5: 
 ---
